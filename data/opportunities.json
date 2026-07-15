@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T09:02:27.620657+00:00",
-  "count": 64,
+  "generated_at": "2026-07-15T10:55:29.743806+00:00",
+  "count": 66,
   "pipelines": [
     {
       "created_by": null,
@@ -718,6 +718,71 @@
       "name": "",
       "status_label": "Follow Up - Nachricht"
     },
+    "lead_GA49zBbwGw5PeeiLGZYDmyOfmIXfKSQ8Pi6BET3NqA0": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T08:24:20.602000+00:00",
+          "date_updated": "2026-06-19T08:24:20.602000+00:00",
+          "display_name": "info@mawa-bau.com",
+          "emails": [
+            {
+              "email": "info@mawa-bau.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_s1CbmLnkFmJ0ifmNtiTQN0zWGchsSOCj1b8hnQfHjFh",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_GA49zBbwGw5PeeiLGZYDmyOfmIXfKSQ8Pi6BET3NqA0",
+          "name": null,
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:46:29.181000+00:00",
+          "date_updated": "2026-07-15T09:46:36.633000+00:00",
+          "display_name": "c.wack@mawa-bau.com",
+          "emails": [
+            {
+              "email": "c.wack@mawa-bau.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_S2HDCiSiXlFWPHWpRH8xIQemt8DAL1nmfNsrzJmZ4FS",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_GA49zBbwGw5PeeiLGZYDmyOfmIXfKSQ8Pi6BET3NqA0",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_GA49zBbwGw5PeeiLGZYDmyOfmIXfKSQ8Pi6BET3NqA0",
+      "name": "MaWa Bau GmbH",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_GpmUjHT08H6zliqGRnqxYfXPALPlQ0yYjWwX6Eisvlg": {
       "contacts": [
         {
@@ -1297,6 +1362,42 @@
       "id": "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB",
       "name": "",
       "status_label": "Follow Up - Nachricht"
+    },
+    "lead_LYHw8efONM5mTD9sJf3uLVordNg955HMqz7ye63QL7b": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-29T11:12:39.636000+00:00",
+          "date_updated": "2026-06-29T11:12:39.636000+00:00",
+          "display_name": "info@fahrschule-brunkhorst.de",
+          "emails": [
+            {
+              "email": "info@fahrschule-brunkhorst.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_3pPDTGHEnWbyIETXxDBld8xtCk4U9PVg5BI6DRV2I2t",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_LYHw8efONM5mTD9sJf3uLVordNg955HMqz7ye63QL7b",
+          "name": null,
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LYHw8efONM5mTD9sJf3uLVordNg955HMqz7ye63QL7b",
+      "name": "Fahrschule Brunkhorst",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_LkcY0vJAAISFCmz9n0zp7aJqBbJ2qyrzu8H0JpYAcPN": {
       "contacts": [
@@ -3632,6 +3733,48 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-15T09:46:34.126000+00:00",
+      "date_updated": "2026-07-15T09:46:34.126000+00:00",
+      "date_won": null,
+      "id": "oppo_8NatZb7kxNOYpVuasAx2DkM8zwWM6qvnvQVcKTo3Bqh",
+      "lead_id": "lead_GA49zBbwGw5PeeiLGZYDmyOfmIXfKSQ8Pi6BET3NqA0",
+      "lead_name": "MaWa Bau GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-15T09:46:04.720000+00:00",
+      "date_updated": "2026-07-15T09:46:04.720000+00:00",
+      "date_won": null,
+      "id": "oppo_VtTPhI7vE2EsRKsuGAthtcXIYBhmfro5lf4UJvjUEDk",
+      "lead_id": "lead_LYHw8efONM5mTD9sJf3uLVordNg955HMqz7ye63QL7b",
+      "lead_name": "Fahrschule Brunkhorst",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
