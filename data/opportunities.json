@@ -1,0 +1,4980 @@
+{
+  "generated_at": "2026-07-15T09:02:27.620657+00:00",
+  "count": 64,
+  "pipelines": [
+    {
+      "created_by": null,
+      "date_created": "2024-08-14T10:56:56.491269",
+      "date_updated": "2026-06-01T09:33:18.496637",
+      "id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "name": "Sales",
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "statuses": [
+        {
+          "id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+          "label": "Zum Verkauf",
+          "type": "active"
+        },
+        {
+          "id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+          "label": "Kauf abgeschlossen",
+          "type": "won"
+        },
+        {
+          "id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+          "label": "Verpasst",
+          "type": "lost"
+        },
+        {
+          "id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+          "label": "Auf Follow Up",
+          "type": "active"
+        }
+      ],
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    }
+  ],
+  "leads": {
+    "lead_1P9vSrItKS95kXEGSJFuVEf25lhtm575ZMSXFTRrdOk": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:49:27.648000+00:00",
+          "date_updated": "2026-04-30T08:49:27.648000+00:00",
+          "display_name": "Dominique Loch EI",
+          "emails": [
+            {
+              "email": "info@arcticfox.tech",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_kc44SwLuJ0aVoQFJtowjJ6mjawoWT5gqkVkp6rkoNCe",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Dominique%20Loch%20EI"
+            }
+          ],
+          "lead_id": "lead_1P9vSrItKS95kXEGSJFuVEf25lhtm575ZMSXFTRrdOk",
+          "name": "Dominique Loch EI",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4968619124898",
+              "phone_formatted": "+49 6861 9124898",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+496861993412",
+              "phone_formatted": "+49 6861 993412",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_1P9vSrItKS95kXEGSJFuVEf25lhtm575ZMSXFTRrdOk",
+      "name": "",
+      "status_label": "Nicht Kontaktiert"
+    },
+    "lead_2jKqaSXEQWcHS7CaZ7RLr7qYBe2eQuuaXBYpaV7I5Z0": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:46:04.132000+00:00",
+          "date_updated": "2026-06-05T10:58:29.878000+00:00",
+          "display_name": "Rainer Wachtel Heizung Sanitär GmbH",
+          "emails": [
+            {
+              "email": "rainer-wachtel@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_GXqSRPJe0aH5hf2Nbnc5pxflE2ovyywIcSP3wgFbNqC",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Rainer%20Wachtel%20Heizung%20Sanit%C3%A4r%20GmbH"
+            }
+          ],
+          "lead_id": "lead_2jKqaSXEQWcHS7CaZ7RLr7qYBe2eQuuaXBYpaV7I5Z0",
+          "name": "Rainer Wachtel Heizung Sanitär GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49381681643",
+              "phone_formatted": "+49 381 681643",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493816861912",
+              "phone_formatted": "+49 381 6861912",
+              "type": "fax"
+            },
+            {
+              "country": "DE",
+              "phone": "+491704764742",
+              "phone_formatted": "+49 170 4764742",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_2jKqaSXEQWcHS7CaZ7RLr7qYBe2eQuuaXBYpaV7I5Z0",
+      "name": "",
+      "status_label": "Partner"
+    },
+    "lead_41wU1oVgg80Vvm9qj9eiGUDoMOrUg2vFmMKNK4NDXQD": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T08:35:15.048000+00:00",
+          "date_updated": "2026-04-29T08:35:15.048000+00:00",
+          "display_name": "Erich Roder Heizung Sanit�r Bauklempnerei GmbH",
+          "emails": [
+            {
+              "email": "info@erich-roder.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_nMOd6JdpQXJa8zTfyjSGcRQSjZHolGlJmWLmjSedRVF",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Erich%20Roder%20Heizung%20Sanit%EF%BF%BDr%20Bauklempnerei%20GmbH"
+            }
+          ],
+          "lead_id": "lead_41wU1oVgg80Vvm9qj9eiGUDoMOrUg2vFmMKNK4NDXQD",
+          "name": "Erich Roder Heizung Sanit�r Bauklempnerei GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49306898980",
+              "phone_formatted": "+49 30 6898980",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493068989820",
+              "phone_formatted": "+49 30 68989820",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_41wU1oVgg80Vvm9qj9eiGUDoMOrUg2vFmMKNK4NDXQD",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-29T10:02:58.606000+00:00",
+          "date_updated": "2026-05-29T10:02:58.606000+00:00",
+          "display_name": "Holstein Bau GmbH",
+          "emails": [
+            {
+              "email": "info@holstein-bau.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_8V6VmkjM5PrW14wVoel8is0lg6xkqzCfyuo6T09oqXV",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Holstein%20Bau%20GmbH"
+            }
+          ],
+          "lead_id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
+          "name": "Holstein Bau GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+494344410636",
+              "phone_formatted": "+49 4344 410636",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+494344412847",
+              "phone_formatted": "+49 4344 412847",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-23T10:38:38.298000+00:00",
+          "date_updated": "2026-06-23T10:38:38.298000+00:00",
+          "display_name": "Müllbehälter-Reinigungs-Service Storch GmbH",
+          "emails": [
+            {
+              "email": "info@mrs-storch.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_Hqj6V7rQ9jT7tWaVW7dR3VqFZC5hE69KNGF0gWs72Lr",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=M%C3%BCllbeh%C3%A4lter-Reinigungs-Service%20Storch%20GmbH"
+            }
+          ],
+          "lead_id": "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH",
+          "name": "Müllbehälter-Reinigungs-Service Storch GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49803165511",
+              "phone_formatted": "+49 8031 65511",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49803167498",
+              "phone_formatted": "+49 8031 67498",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:26:20.686000+00:00",
+          "date_updated": "2026-06-26T08:09:37.854000+00:00",
+          "display_name": "Volbert Holz in Form GmbH",
+          "emails": [
+            {
+              "email": "team@volbert-holzinform.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_DHzRFn9ySEOBJxlRlhvjIoc5fnxOPUn9vmfka9RkoiD",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Volbert%20Holz%20in%20Form%20GmbH"
+            }
+          ],
+          "lead_id": "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9",
+          "name": "Volbert Holz in Form GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4925654065860",
+              "phone_formatted": "+49 2565 4065860",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4925654065862",
+              "phone_formatted": "+49 2565 4065862",
+              "type": "fax"
+            },
+            {
+              "country": "DE",
+              "phone": "+491716958221",
+              "phone_formatted": "+49 171 6958221",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-08T08:32:55.769000+00:00",
+          "date_updated": "2026-07-08T08:32:55.769000+00:00",
+          "display_name": "Theo Volbert",
+          "emails": [
+            {
+              "email": "theo@volbert.gmbh",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_UmE4toYAa41YmIma5Ltejl86Wbwx0gaAUipjJqiCBMy",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Theo%20Volbert"
+            }
+          ],
+          "lead_id": "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9",
+          "name": "Theo Volbert",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_8GxJMxKYvIK25odohWFiQnPrsaNGBOxkf9WuCre2c2m": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:09:38.877000+00:00",
+          "date_updated": "2024-08-27T11:09:38.877000+00:00",
+          "display_name": "Penkun-Tourist GmbH",
+          "emails": [
+            {
+              "email": "info@penkun-tourist.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_ESpNOJOqNpgpkcbiX5oaNDlMz7Y54yrxfCanP2zzI6l",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Penkun-Tourist%20GmbH"
+            }
+          ],
+          "lead_id": "lead_8GxJMxKYvIK25odohWFiQnPrsaNGBOxkf9WuCre2c2m",
+          "name": "Penkun-Tourist GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4939751698669",
+              "phone_formatted": "+49 39751 698669",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4939751698975",
+              "phone_formatted": "+49 39751 698975",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_8GxJMxKYvIK25odohWFiQnPrsaNGBOxkf9WuCre2c2m",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_8QclZBZkKrwB0feAZQ9xwlaQXIcfMlQAQyHuL2uIOCq": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:25:39.222000+00:00",
+          "date_updated": "2026-06-11T09:25:39.222000+00:00",
+          "display_name": "Holzbau Schweers GmbH",
+          "emails": [
+            {
+              "email": "holzbau.schweers@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_cE3K0qHZxHVl4Jj9L1u6dPeeV0n9MVEDBaFWPZDqnkT",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Holzbau%20Schweers%20GmbH"
+            }
+          ],
+          "lead_id": "lead_8QclZBZkKrwB0feAZQ9xwlaQXIcfMlQAQyHuL2uIOCq",
+          "name": "Holzbau Schweers GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4928505781",
+              "phone_formatted": "+49 2850 5781",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+492850935571",
+              "phone_formatted": "+49 2850 935571",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_8QclZBZkKrwB0feAZQ9xwlaQXIcfMlQAQyHuL2uIOCq",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_92fcvYwRnOKiwrsZSBsQreGTOqM406mQHSOloxBopgB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:27:28.749000+00:00",
+          "date_updated": "2024-08-27T11:27:28.749000+00:00",
+          "display_name": "Willi Wächter, Omnibusreisen e. K.",
+          "emails": [
+            {
+              "email": "info@waechter-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_sw8uEbQgwVDpjqGCaO6KyiKG82aLdt6ISHQpADXNbfB",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Willi%20W%C3%A4chter%2C%20Omnibusreisen%20e.%20K."
+            }
+          ],
+          "lead_id": "lead_92fcvYwRnOKiwrsZSBsQreGTOqM406mQHSOloxBopgB",
+          "name": "Willi Wächter, Omnibusreisen e. K.",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4952958210",
+              "phone_formatted": "+49 5295 8210",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4952951675",
+              "phone_formatted": "+49 5295 1675",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_92fcvYwRnOKiwrsZSBsQreGTOqM406mQHSOloxBopgB",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:50:20.091000+00:00",
+          "date_updated": "2026-04-30T08:50:20.091000+00:00",
+          "display_name": "Michael Schütt Heizungstechnik GmbH",
+          "emails": [
+            {
+              "email": "michael@schuett-heizungstechnik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_p9j3NJsMnm0Rr5P9oQqQEmCSJTJqmaMINghv4W77t9x",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Sch%C3%BCtt%20Heizungstechnik%20GmbH"
+            }
+          ],
+          "lead_id": "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz",
+          "name": "Michael Schütt Heizungstechnik GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49407375461",
+              "phone_formatted": "+49 40 7375461",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49407373000",
+              "phone_formatted": "+49 40 7373000",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_CW3aUTjvWmpQeBtRumd7T7Ca6exu2sfkOU7iVhqYNNi": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:08:43.962000+00:00",
+          "date_updated": "2024-08-27T11:14:11.970000+00:00",
+          "display_name": "Optimal Reisen Mersch GmbH",
+          "emails": [
+            {
+              "email": "optimal-reisen.mersch@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "info@optimal-reisen-mersch.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_YG3RSupQAOgOEda0MGqj913PxEtKu80Yylr6WcE2ryW",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Optimal%20Reisen%20Mersch%20GmbH"
+            }
+          ],
+          "lead_id": "lead_CW3aUTjvWmpQeBtRumd7T7Ca6exu2sfkOU7iVhqYNNi",
+          "name": "Optimal Reisen Mersch GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49597197320",
+              "phone_formatted": "+49 5971 97320",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+495971973232",
+              "phone_formatted": "+49 5971 973232",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_CW3aUTjvWmpQeBtRumd7T7Ca6exu2sfkOU7iVhqYNNi",
+      "name": "",
+      "status_label": "Betrieb Geschlossen"
+    },
+    "lead_D0J5XtE8x1GO0e5ApjnMV5R0Pl0iCvtUqus8agijNZa": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:02:58.273000+00:00",
+          "date_updated": "2026-05-06T09:02:58.273000+00:00",
+          "display_name": "Isabella Filek GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "gartenpflege@filek.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_P2jNVePs5lwavmWTtPLa2ZkNpTsF8IVLyxVifXIxey3",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Isabella%20Filek%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_D0J5XtE8x1GO0e5ApjnMV5R0Pl0iCvtUqus8agijNZa",
+          "name": "Isabella Filek GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+495322780290",
+              "phone_formatted": "+49 5322 780290",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+495322780291",
+              "phone_formatted": "+49 5322 780291",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_D0J5XtE8x1GO0e5ApjnMV5R0Pl0iCvtUqus8agijNZa",
+      "name": "",
+      "status_label": "Partner"
+    },
+    "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:06:58.267000+00:00",
+          "date_updated": "2026-05-06T09:06:58.267000+00:00",
+          "display_name": "Kohouts Garten- und Landschaftsbau GmbH",
+          "emails": [
+            {
+              "email": "info@gartencenter-kohout.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_hDKFwWYCHbqihK4XHzaQHjPrpkJndTgbIoi9JCAV9kC",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Kohouts%20Garten-%20und%20Landschaftsbau%20GmbH"
+            }
+          ],
+          "lead_id": "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB",
+          "name": "Kohouts Garten- und Landschaftsbau GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4935793820",
+              "phone_formatted": "+49 35793 820",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49357938211",
+              "phone_formatted": "+49 35793 8211",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_GpmUjHT08H6zliqGRnqxYfXPALPlQ0yYjWwX6Eisvlg": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-13T09:59:11.689000+00:00",
+          "date_updated": "2026-07-13T09:59:11.689000+00:00",
+          "display_name": "Nastaran Yousef Khan",
+          "emails": [
+            {
+              "email": "nastaran.yousefkhan@erdbau-suedwest.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_BCmgaw00tlweOzbJfkDQIla7qPjJ00YBKeIUcajz569",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Nastaran%20Yousef%20Khan"
+            }
+          ],
+          "lead_id": "lead_GpmUjHT08H6zliqGRnqxYfXPALPlQ0yYjWwX6Eisvlg",
+          "name": "Nastaran Yousef Khan",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_GpmUjHT08H6zliqGRnqxYfXPALPlQ0yYjWwX6Eisvlg",
+      "name": "Erdbau-suedwest",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_HLd6UJlfkmKzUhEoThcZp779HlWky1iDcpxb6Tg3VMH": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T08:45:25.762000+00:00",
+          "date_updated": "2026-04-29T08:45:25.762000+00:00",
+          "display_name": "Karl Dingler GmbH",
+          "emails": [
+            {
+              "email": "info@dingler.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_dZyNFfEystmMROpDDDiIyAXUaQ5QMUAaZXu7LDG5zw2",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Karl%20Dingler%20GmbH"
+            }
+          ],
+          "lead_id": "lead_HLd6UJlfkmKzUhEoThcZp779HlWky1iDcpxb6Tg3VMH",
+          "name": "Karl Dingler GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49712198940",
+              "phone_formatted": "+49 7121 98940",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+497121948888",
+              "phone_formatted": "+49 7121 948888",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_HLd6UJlfkmKzUhEoThcZp779HlWky1iDcpxb6Tg3VMH",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_I55LX4M6u5JOaTXjI2cjc4a46pEfbhuevGC472MTcwq": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:24:19.439000+00:00",
+          "date_updated": "2026-06-11T09:24:19.439000+00:00",
+          "display_name": "Holzbau-Kunz GmbH",
+          "emails": [
+            {
+              "email": "info@holzbau-kunz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_VFpRSx4eHO3b2hv1nVXz1rWl6rK3NT04kWctA9Roe0l",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Holzbau-Kunz%20GmbH"
+            }
+          ],
+          "lead_id": "lead_I55LX4M6u5JOaTXjI2cjc4a46pEfbhuevGC472MTcwq",
+          "name": "Holzbau-Kunz GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+499373637",
+              "phone_formatted": "+49 9373 637",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4993733955",
+              "phone_formatted": "+49 9373 3955",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_I55LX4M6u5JOaTXjI2cjc4a46pEfbhuevGC472MTcwq",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_IFJ33cz6DB1PjvClDzimolCtKnVbz2t3ayR9qH3ExjK": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:22:02.497000+00:00",
+          "date_updated": "2026-06-11T09:22:02.497000+00:00",
+          "display_name": "Armin Baumhammel, Bauha Ladenbau der Zeit e. K.",
+          "emails": [
+            {
+              "email": "info@bauha.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_MERs6e3TVexZoxb6OB4L0KBMrXZYfIsVvEOfrPUBkI2",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Armin%20Baumhammel%2C%20Bauha%20Ladenbau%20der%20Zeit%20e.%20K."
+            }
+          ],
+          "lead_id": "lead_IFJ33cz6DB1PjvClDzimolCtKnVbz2t3ayR9qH3ExjK",
+          "name": "Armin Baumhammel, Bauha Ladenbau der Zeit e. K.",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+496971917711",
+              "phone_formatted": "+49 69 71917711",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_IFJ33cz6DB1PjvClDzimolCtKnVbz2t3ayR9qH3ExjK",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-22T08:21:48.758000+00:00",
+          "date_updated": "2026-05-22T08:21:48.758000+00:00",
+          "display_name": "Peter Kaßner - Lieblingskoch Catering e. K.",
+          "emails": [
+            {
+              "email": "info@lieblingskoch.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_s9a69Bp34yQZ5osqo2EB1XjFJJPwxt7zLKWvw4LWeAJ",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Peter%20Ka%C3%9Fner%20-%20Lieblingskoch%20Catering%20e.%20K."
+            }
+          ],
+          "lead_id": "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx",
+          "name": "Peter Kaßner - Lieblingskoch Catering e. K.",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+495105582801",
+              "phone_formatted": "+49 5105 582801",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:40:05.535000+00:00",
+          "date_updated": "2024-09-18T08:40:05.535000+00:00",
+          "display_name": "Mercer Timber Products GmbH",
+          "emails": [
+            {
+              "email": "info@mercerint.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_chaY8A4f8ZcQuIAK6Ptsba3FgxbGcrYHW6YnmDYBhHh",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Timber%20Products%20GmbH"
+            }
+          ],
+          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+          "name": "Mercer Timber Products GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49303064710",
+              "phone_formatted": "+49 30 3064710",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-13T09:59:28.190000+00:00",
+          "date_updated": "2026-07-13T09:59:28.190000+00:00",
+          "display_name": "Mercer Holz, Fuhrparkverkauf",
+          "emails": [
+            {
+              "email": "fuhrparkverkauf@mercerint.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_F2zA0h4DuH4s61uiSL1epXpk2eTXTdR5cbh4xi1ZqF0",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Holz%2C%20Fuhrparkverkauf"
+            }
+          ],
+          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+          "name": "Mercer Holz, Fuhrparkverkauf",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_JJ8d3DTRwdGKfFOHhNKlyE7yWJ5w2u6icLpadCDBpwt": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:05:07.751000+00:00",
+          "date_updated": "2024-08-27T11:05:07.751000+00:00",
+          "display_name": "Nahverkehr Mainfranken GmbH",
+          "emails": [],
+          "id": "cont_F159YStCgGB7OWqRCcNp8ds8QjUaIwxa4M8riz2V4Ac",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Nahverkehr%20Mainfranken%20GmbH"
+            }
+          ],
+          "lead_id": "lead_JJ8d3DTRwdGKfFOHhNKlyE7yWJ5w2u6icLpadCDBpwt",
+          "name": "Nahverkehr Mainfranken GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:56:42.524000+00:00",
+          "date_updated": "2024-08-27T11:05:07.755000+00:00",
+          "display_name": "Immobilien KU GmbH",
+          "emails": [
+            {
+              "email": "post@apg-info.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_IM07Q1v61LeDy0bc8pzFKvvPZ4wAeJQalcu79onUz83",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Immobilien%20KU%20GmbH"
+            }
+          ],
+          "lead_id": "lead_JJ8d3DTRwdGKfFOHhNKlyE7yWJ5w2u6icLpadCDBpwt",
+          "name": "Immobilien KU GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49931452800",
+              "phone_formatted": "+49 931 452800",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+499314528011",
+              "phone_formatted": "+49 931 4528011",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_JJ8d3DTRwdGKfFOHhNKlyE7yWJ5w2u6icLpadCDBpwt",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_JXqsfOEUkEM0lmoCXkGqaAGT8WDusj2whrCtsy6CrCn": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-02T11:51:45.548000+00:00",
+          "date_updated": "2026-05-02T11:51:45.548000+00:00",
+          "display_name": "Quarzsandwerk Lang GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "info@quarzsandwerk-lang.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_vcQgyCmtBPTOiDgdp7NJ97ykxQB8Zam89VS8Y3XlIIz",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Quarzsandwerk%20Lang%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_JXqsfOEUkEM0lmoCXkGqaAGT8WDusj2whrCtsy6CrCn",
+          "name": "Quarzsandwerk Lang GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4979729123350",
+              "phone_formatted": "+49 7972 9123350",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49797291233530",
+              "phone_formatted": "+49 7972 91233530",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_JXqsfOEUkEM0lmoCXkGqaAGT8WDusj2whrCtsy6CrCn",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_JaCNB33lvncOONOwGjlDhStWwxkxQgGebvHUMZhWTBc": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-17T08:44:57.673000+00:00",
+          "date_updated": "2024-09-17T08:44:57.673000+00:00",
+          "display_name": "+49 6441 5692912",
+          "emails": [],
+          "id": "cont_y0bfWBEVIXnKk7VAeiu2xx9fFEkIyOL8dHML7ltbJLX",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_JaCNB33lvncOONOwGjlDhStWwxkxQgGebvHUMZhWTBc",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4964415692912",
+              "phone_formatted": "+49 6441 5692912",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-12-06T09:55:54.064000+00:00",
+          "date_updated": "2024-12-06T09:55:54.064000+00:00",
+          "display_name": "info@schreiber-wetzlar.de",
+          "emails": [
+            {
+              "email": "info@schreiber-wetzlar.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_u4pldnJdAMz47DtiRZng9zMh7LSZvCJLEyJWWwba57A",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_JaCNB33lvncOONOwGjlDhStWwxkxQgGebvHUMZhWTBc",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_JaCNB33lvncOONOwGjlDhStWwxkxQgGebvHUMZhWTBc",
+      "name": "Kraftverkehr Herwig Schreiber GmbH",
+      "status_label": "Im Kontakt"
+    },
+    "lead_KfZ9u1RD6Mq0nLGqbqBq3gvY0EMLRAUPkKDVlFYNfwt": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T08:34:25.668000+00:00",
+          "date_updated": "2026-06-29T11:09:20.529000+00:00",
+          "display_name": "Samitis-HLS UG",
+          "emails": [
+            {
+              "email": "info@samitis-hls.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_QNogFdInJ1VFYWHhRL8W0F3fNDUgK1SnvcPAjo77RHI",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Samitis-HLS%20UG"
+            }
+          ],
+          "lead_id": "lead_KfZ9u1RD6Mq0nLGqbqBq3gvY0EMLRAUPkKDVlFYNfwt",
+          "name": "Samitis-HLS UG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_KfZ9u1RD6Mq0nLGqbqBq3gvY0EMLRAUPkKDVlFYNfwt",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:46:46.401000+00:00",
+          "date_updated": "2026-04-30T08:46:46.401000+00:00",
+          "display_name": "Brandschutz Krampitz GmbH",
+          "emails": [
+            {
+              "email": "info@brandschutz-krampitz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_hE9OfB2NcIKBlQbu45obbV8Qs4hb8ALj3s90Evx2xvW",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Brandschutz%20Krampitz%20GmbH"
+            }
+          ],
+          "lead_id": "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB",
+          "name": "Brandschutz Krampitz GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-03T15:59:21.582000+00:00",
+          "date_updated": "2026-06-03T15:59:28.907000+00:00",
+          "display_name": "Thomas Meter",
+          "emails": [
+            {
+              "email": "brandschutz-krampitz@web.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_CU0GIGEyReSIvxry9VJdTmauqZoCf0mKtfUwoGEMn90",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Thomas%20Meter"
+            }
+          ],
+          "lead_id": "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB",
+          "name": "Thomas Meter",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_LkcY0vJAAISFCmz9n0zp7aJqBbJ2qyrzu8H0JpYAcPN": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:43:28.190000+00:00",
+          "date_updated": "2024-09-18T08:43:28.190000+00:00",
+          "display_name": "Welter´s Reisen GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "info@welter-omnibusse.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9nGIkIZildQlmpDSUZ3NnSfWox0fS40DdqB0UwgAbGH",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Welter%C2%B4s%20Reisen%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_LkcY0vJAAISFCmz9n0zp7aJqBbJ2qyrzu8H0JpYAcPN",
+          "name": "Welter´s Reisen GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4926547111",
+              "phone_formatted": "+49 2654 7111",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LkcY0vJAAISFCmz9n0zp7aJqBbJ2qyrzu8H0JpYAcPN",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_LsYnGLC7s14M9BA2vkAL457d0WByx5yRx65hPKxJSE0": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-17T08:46:20.747000+00:00",
+          "date_updated": "2024-09-17T08:46:20.747000+00:00",
+          "display_name": "+49 172 5491208",
+          "emails": [],
+          "id": "cont_HV9WzP5U8BMcj7E9AyBV4M8lJNuXjwamH7dXcg3su04",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_LsYnGLC7s14M9BA2vkAL457d0WByx5yRx65hPKxJSE0",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491725491208",
+              "phone_formatted": "+49 172 5491208",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-11-27T09:42:23.224000+00:00",
+          "date_updated": "2024-11-27T10:55:50.922000+00:00",
+          "display_name": "info@gutekunst-group.com",
+          "emails": [
+            {
+              "email": "info@gutekunst-group.com",
+              "is_unsubscribed": true,
+              "type": "office"
+            }
+          ],
+          "id": "cont_N62jUrwmVXonhrx3pBQFW9hEUmyNqBEA0l4bTEGrffg",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_LsYnGLC7s14M9BA2vkAL457d0WByx5yRx65hPKxJSE0",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LsYnGLC7s14M9BA2vkAL457d0WByx5yRx65hPKxJSE0",
+      "name": "Spedition, Transporte & Autohandel Frank Gutekunst",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-17T08:45:06.863000+00:00",
+          "date_updated": "2024-09-17T08:45:06.863000+00:00",
+          "display_name": "+49 5741 310708",
+          "emails": [],
+          "id": "cont_lAdEx6XkUaDnOFjvxdA4ugIGo6wGMsLllKpaSEtjt0O",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+495741310708",
+              "phone_formatted": "+49 5741 310708",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-11-19T08:47:03.425000+00:00",
+          "date_updated": "2024-11-19T08:47:03.425000+00:00",
+          "display_name": "info@ct-logistik.de",
+          "emails": [
+            {
+              "email": "info@ct-logistik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_T47YDpuDfm74WgeZiKQQMsRmpvdZExOeRKbs3IoXLtT",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK",
+      "name": "CT Logistik GmbH & Co. KG",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_N36CDWTcyax9q7lel0Yp71ck80ge7hA6DYiWzSJvAB9": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:42:02.004000+00:00",
+          "date_updated": "2026-06-23T10:33:32.195000+00:00",
+          "display_name": "Roth Industriereinigung GmbH",
+          "emails": [
+            {
+              "email": "info@industriereinigung-roth.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_uKOmyX5NrK930s3zzg7ORlXtM7EwQOMVkdXvgMhoKwY",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Roth%20Industriereinigung%20GmbH"
+            }
+          ],
+          "lead_id": "lead_N36CDWTcyax9q7lel0Yp71ck80ge7hA6DYiWzSJvAB9",
+          "name": "Roth Industriereinigung GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+496323980004",
+              "phone_formatted": "+49 6323 980004",
+              "type": "fax"
+            },
+            {
+              "country": "DE",
+              "phone": "+4963237557",
+              "phone_formatted": "+49 6323 7557",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_N36CDWTcyax9q7lel0Yp71ck80ge7hA6DYiWzSJvAB9",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-15T11:43:13.494000+00:00",
+          "date_updated": "2026-06-15T11:43:13.494000+00:00",
+          "display_name": "Mein Lieblingsbäcker Fischer UG",
+          "emails": [
+            {
+              "email": "backwelt-fischer@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_NPBf6ZpgS1Dz3CNRQ71hOJRoMuWh8WMMWq4tKuJnau7",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Mein%20Lieblingsb%C3%A4cker%20Fischer%20UG"
+            }
+          ],
+          "lead_id": "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF",
+          "name": "Mein Lieblingsbäcker Fischer UG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4923659241300",
+              "phone_formatted": "+49 2365 9241300",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:06:54.404000+00:00",
+          "date_updated": "2026-05-06T09:06:54.404000+00:00",
+          "display_name": "Dennis König Garten- und Landschaftsbau GmbH",
+          "emails": [
+            {
+              "email": "info@koenig-garten.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_6lwItM90wJ0FtUcJgpkSGtLKAhvI5YvmAJCmfgOnMR8",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Dennis%20K%C3%B6nig%20Garten-%20und%20Landschaftsbau%20GmbH"
+            }
+          ],
+          "lead_id": "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5",
+          "name": "Dennis König Garten- und Landschaftsbau GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4915172695504",
+              "phone_formatted": "+49 1517 2695504",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_QzNI9MimzOjXmdkqF2Py2YP5zY0XdkQrmV198qMfUhJ": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:24:51.675000+00:00",
+          "date_updated": "2026-06-11T09:24:51.675000+00:00",
+          "display_name": "HV Heda GmbH",
+          "emails": [
+            {
+              "email": "hvhedagmbh@gmx.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_jbH2dK5VMBkDRjUIT17871iwk8nTwYDh8ctV5I1Y4Mw",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=HV%20Heda%20GmbH"
+            }
+          ],
+          "lead_id": "lead_QzNI9MimzOjXmdkqF2Py2YP5zY0XdkQrmV198qMfUhJ",
+          "name": "HV Heda GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491716469739",
+              "phone_formatted": "+49 171 6469739",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_QzNI9MimzOjXmdkqF2Py2YP5zY0XdkQrmV198qMfUhJ",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_RCcaJylTSFjV8yL81KuUjVQaX4aSfTdeB5woI9vWCjh": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:18:35.297000+00:00",
+          "date_updated": "2024-08-27T11:18:35.297000+00:00",
+          "display_name": "Städtische Nahverkehrsgesellschaft mbH Suhl/Zella-Mehlis",
+          "emails": [
+            {
+              "email": "info@sngonline.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_JaxRyyyyBVPIxgyGcj1yIfHdI0bc6Sug2hHopGw9bzW",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=St%C3%A4dtische%20Nahverkehrsgesellschaft%20mbH%20Suhl/Zella-Mehlis"
+            }
+          ],
+          "lead_id": "lead_RCcaJylTSFjV8yL81KuUjVQaX4aSfTdeB5woI9vWCjh",
+          "name": "Städtische Nahverkehrsgesellschaft mbH Suhl/Zella-Mehlis",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49368139430",
+              "phone_formatted": "+49 3681 39430",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+493681394339",
+              "phone_formatted": "+49 3681 394339",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_RCcaJylTSFjV8yL81KuUjVQaX4aSfTdeB5woI9vWCjh",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_UmJwq8xDZm0ZHh6uYdnxHso0w0Q42EO4CivqYcakuoZ": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:46:30.095000+00:00",
+          "date_updated": "2026-05-18T10:54:08.694000+00:00",
+          "display_name": "Sanitär- & Heizungsschmiede Böhme GmbH",
+          "emails": [
+            {
+              "email": "hs.schmiede-boehme@web.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9dOyb0f3bR5Ixc1bZOBsqKoVRKeZaZx2eUpbKmpGdX8",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Sanit%C3%A4r-%20%26%20Heizungsschmiede%20B%C3%B6hme%20GmbH"
+            }
+          ],
+          "lead_id": "lead_UmJwq8xDZm0ZHh6uYdnxHso0w0Q42EO4CivqYcakuoZ",
+          "name": "Sanitär- & Heizungsschmiede Böhme GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4915125298622",
+              "phone_formatted": "+49 1512 5298622",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_UmJwq8xDZm0ZHh6uYdnxHso0w0Q42EO4CivqYcakuoZ",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_V4moFlXYZumHSpCPqoixSNBsOlYgasIET1884J1Fz9g": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T08:47:38.747000+00:00",
+          "date_updated": "2026-06-17T14:16:57.882000+00:00",
+          "display_name": "BERNDT K�ltetechnik GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "info@klima-sos.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "info@berndt-kaeltetechnik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_xMGXZxbd4neKQ8oHah3DsyhEdpewKOWAXwP7L0w4jT8",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=BERNDT%20K%EF%BF%BDltetechnik%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_V4moFlXYZumHSpCPqoixSNBsOlYgasIET1884J1Fz9g",
+          "name": "BERNDT K�ltetechnik GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49222591320",
+              "phone_formatted": "+49 2225 91320",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+492641907020",
+              "phone_formatted": "+49 2641 907020",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_V4moFlXYZumHSpCPqoixSNBsOlYgasIET1884J1Fz9g",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:04:52.586000+00:00",
+          "date_updated": "2024-09-10T09:54:17.975000+00:00",
+          "display_name": "MVB-Verwaltungs-GmbH",
+          "emails": [
+            {
+              "email": "frank.ratsack@mvbnet.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_vnjA3iEMDQvULGXzfeIhIz8O6OpiWmUVte3dUTFW9lK",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=MVB-Verwaltungs-GmbH"
+            }
+          ],
+          "lead_id": "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB",
+          "name": "MVB-Verwaltungs-GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493915480",
+              "phone_formatted": "+49 391 5480",
+              "type": "direct"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-10T09:54:20.296000+00:00",
+          "date_updated": "2026-04-28T08:52:59.497000+00:00",
+          "display_name": "Frank Rathsack",
+          "emails": [
+            {
+              "email": "frank.rathsack@mvbnet.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_TjGs0pbu9GtemVlPYdBdTaYz7v01dbC15lJuYY06nAh",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Frank%20Rathsack"
+            }
+          ],
+          "lead_id": "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB",
+          "name": "Frank Rathsack",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "Verkehrsleiter",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_VU8VxNzSoFVf7aFp6n0YJTiPvKSxOxS5uhf3Xfd87av": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-04T09:52:29.916000+00:00",
+          "date_updated": "2026-06-16T08:02:40.459000+00:00",
+          "display_name": "T.B.B. Technikbauplanung und -beratung GmbH",
+          "emails": [
+            {
+              "email": "tbb.gmbh@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9IYQYtFTMguLM6HCcAcppz3dBdcaqrmCRKRVetop7vG",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=T.B.B.%20Technikbauplanung%20und%20-beratung%20GmbH"
+            }
+          ],
+          "lead_id": "lead_VU8VxNzSoFVf7aFp6n0YJTiPvKSxOxS5uhf3Xfd87av",
+          "name": "T.B.B. Technikbauplanung und -beratung GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493037401416",
+              "phone_formatted": "+49 30 37401416",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493037401418",
+              "phone_formatted": "+49 30 37401418",
+              "type": "fax"
+            },
+            {
+              "country": "DE",
+              "phone": "+491723118538",
+              "phone_formatted": "+49 172 3118538",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_VU8VxNzSoFVf7aFp6n0YJTiPvKSxOxS5uhf3Xfd87av",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_WaibVQYiwmnS95TrPKlbMiCUXKxDL1ZBEqGBjulwvZK": {
+      "contacts": [],
+      "id": "lead_WaibVQYiwmnS95TrPKlbMiCUXKxDL1ZBEqGBjulwvZK",
+      "name": "Nick Ge",
+      "status_label": "Nicht Kontaktiert"
+    },
+    "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:17:21.794000+00:00",
+          "date_updated": "2026-06-19T20:39:01.478000+00:00",
+          "display_name": "SEITZ Bus Verwaltungs-GmbH",
+          "emails": [
+            {
+              "email": "info@seitz-bus.eu",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_iVFTnZUddoaPBbFTHE15CIV5UxURFK2oamrVnVoZSAF",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=SEITZ%20Bus%20Verwaltungs-GmbH"
+            }
+          ],
+          "lead_id": "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho",
+          "name": "SEITZ Bus Verwaltungs-GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49934592020",
+              "phone_formatted": "+49 9345 92020",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+499345920255",
+              "phone_formatted": "+49 9345 920255",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho",
+      "name": "SEITZ Bus GmbH",
+      "status_label": "Partner"
+    },
+    "lead_YnHao2pDU09KhDujpFRn9TOSAd992d1EydpnUJzdfl6": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T09:53:12.570000+00:00",
+          "date_updated": "2026-04-30T09:53:12.570000+00:00",
+          "display_name": "MK-Ambulanz GmbH Krankenfahrdienst",
+          "emails": [
+            {
+              "email": "info@mk-ambulanz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_2OUO8PSJgByLi8ZodI3mDgEFduBz6qw1FqkS4eryfO7",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=MK-Ambulanz%20GmbH%20Krankenfahrdienst"
+            }
+          ],
+          "lead_id": "lead_YnHao2pDU09KhDujpFRn9TOSAd992d1EydpnUJzdfl6",
+          "name": "MK-Ambulanz GmbH Krankenfahrdienst",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+492371660171",
+              "phone_formatted": "+49 2371 660171",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+492371689692",
+              "phone_formatted": "+49 2371 689692",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_YnHao2pDU09KhDujpFRn9TOSAd992d1EydpnUJzdfl6",
+      "name": "",
+      "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-17T14:11:14.823000+00:00",
+          "date_updated": "2026-06-17T14:11:14.823000+00:00",
+          "display_name": "Internationale Spedition Böhm + Besold GmbH",
+          "emails": [
+            {
+              "email": "info@boehm-besold.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_QfZvMPyqrV1Zz7dxsNns8UWqISgzj9ulPspgGrWNI1v",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Internationale%20Spedition%20B%C3%B6hm%20%2B%20Besold%20GmbH"
+            }
+          ],
+          "lead_id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+          "name": "Internationale Spedition Böhm + Besold GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+497319771120",
+              "phone_formatted": "+49 731 9771120",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-17T08:45:02.867000+00:00",
+          "date_updated": "2026-06-17T14:17:46.593000+00:00",
+          "display_name": "Böhm & Besold GmbH Internationale Spedition",
+          "emails": [
+            {
+              "email": "info@boehm-besold.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_hwdBgNuimjs1JwLyH1xgFHh9sZN4nydxTRLHIWgKsoh",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=B%C3%B6hm%20%26%20Besold%20GmbH%20Internationale%20Spedition"
+            }
+          ],
+          "lead_id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+          "name": "Böhm & Besold GmbH Internationale Spedition",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+497731999222",
+              "phone_formatted": "+49 7731 999222",
+              "type": "fax"
+            },
+            {
+              "country": "DE",
+              "phone": "+49773199920",
+              "phone_formatted": "+49 7731 99920",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-11-25T12:09:50.116000+00:00",
+          "date_updated": "2024-11-25T12:09:50.116000+00:00",
+          "display_name": "joachim.moeller@boehmundbesold.de",
+          "emails": [
+            {
+              "email": "joachim.moeller@boehmundbesold.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_WvpCHW97IBJMnngCgkvQvCxTL0T8JyhinTe5x83SVsq",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-11-25T12:10:33.414000+00:00",
+          "date_updated": "2024-11-25T12:10:33.414000+00:00",
+          "display_name": "info@boehmundbesold.de",
+          "emails": [
+            {
+              "email": "info@boehmundbesold.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_d6OLrpJDx3KQBTccRe5xpdZvBUAHiwmViVF8nWTbHNx",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+      "name": "Böhm & Besold GmbH Internationale Spedition",
+      "status_label": "Im Kontakt"
+    },
+    "lead_chMQcCtZUCGJRjsiQPIZWGmLt3wZXF4R6SlhR5YlIwW": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:41:54.539000+00:00",
+          "date_updated": "2024-08-27T10:41:54.539000+00:00",
+          "display_name": "Bock Touristik GmbH",
+          "emails": [
+            {
+              "email": "info@bock-touristik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_088p15JXO7uQvW6YkvEBesrnvYkWbVCou36qy3PlqYd",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Bock%20Touristik%20GmbH"
+            }
+          ],
+          "lead_id": "lead_chMQcCtZUCGJRjsiQPIZWGmLt3wZXF4R6SlhR5YlIwW",
+          "name": "Bock Touristik GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+499657244",
+              "phone_formatted": "+49 9657 244",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4996571099",
+              "phone_formatted": "+49 9657 1099",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_chMQcCtZUCGJRjsiQPIZWGmLt3wZXF4R6SlhR5YlIwW",
+      "name": "",
+      "status_label": "Partner"
+    },
+    "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:06:26.575000+00:00",
+          "date_updated": "2024-08-27T11:06:26.575000+00:00",
+          "display_name": "O u. R Reiseservice GmbH",
+          "emails": [
+            {
+              "email": "info@or-fichter.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_sDzEuRIT15XDEGnFX5LI2Rg3eSuSP9U84ltHsovqwW9",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=O%20u.%20R%20Reiseservice%20GmbH"
+            }
+          ],
+          "lead_id": "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9",
+          "name": "O u. R Reiseservice GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4977242360",
+              "phone_formatted": "+49 7724 2360",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4977245322",
+              "phone_formatted": "+49 7724 5322",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-10-23T08:55:47.780000+00:00",
+          "date_updated": "2024-11-04T13:59:48.473000+00:00",
+          "display_name": "Alexander Fichter",
+          "emails": [],
+          "id": "cont_8zPMtVAAtHcCYKx1LutPIrfZnLL87IURBLHM94AJWM2",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Alexander%20Fichter"
+            }
+          ],
+          "lead_id": "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9",
+          "name": "Alexander Fichter",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491739967260",
+              "phone_formatted": "+49 173 9967260",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:12:48.346000+00:00",
+          "date_updated": "2026-05-01T01:54:23.019000+00:00",
+          "display_name": "reisebüro burri fichter GmbH",
+          "emails": [
+            {
+              "email": "info@or-fichter.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_4dCyIaZfOFIJPJExADGNCRaAArWfQgjtFp9mAqe92IX",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=reiseb%C3%BCro%20burri%20fichter%20GmbH"
+            }
+          ],
+          "lead_id": "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9",
+          "name": "reisebüro burri fichter GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9",
+      "name": "Omnibus Fichter Reiseservice GmbH (O und R Reiservice)",
+      "status_label": "Partner"
+    },
+    "lead_ggXVIpuXItnqeYbinAE1GmOAgJVc9RFnwD8PwWAqMJi": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:51:52.344000+00:00",
+          "date_updated": "2026-04-30T08:51:52.344000+00:00",
+          "display_name": "IKS GmbH Installationsbetrieb für Klempner- und Sanitäranlagen",
+          "emails": [
+            {
+              "email": "info@iksneuhaus.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_mp3K3p24BLCFI7iFymkJUKKAN6zVd58JzOkbMF96Ofe",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=IKS%20GmbH%20Installationsbetrieb%20f%C3%BCr%20Klempner-%20und%20Sanit%C3%A4ranlagen"
+            }
+          ],
+          "lead_id": "lead_ggXVIpuXItnqeYbinAE1GmOAgJVc9RFnwD8PwWAqMJi",
+          "name": "IKS GmbH Installationsbetrieb für Klempner- und Sanitäranlagen",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493679720165",
+              "phone_formatted": "+49 3679 720165",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493679720195",
+              "phone_formatted": "+49 3679 720195",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_ggXVIpuXItnqeYbinAE1GmOAgJVc9RFnwD8PwWAqMJi",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_gqEVIAIlitpZSSiebed9SjRpaevqBC2iv1Tc3HIrSoc": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:04:26.334000+00:00",
+          "date_updated": "2026-05-06T09:04:26.334000+00:00",
+          "display_name": "Hada Gartengestaltung und Immobilien GmbH",
+          "emails": [
+            {
+              "email": "h.hada@gmx.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_qFYBQtSu3FJiiyMndCVFZp382qzU1HsH9Rkxp4ATTha",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Hada%20Gartengestaltung%20und%20Immobilien%20GmbH"
+            }
+          ],
+          "lead_id": "lead_gqEVIAIlitpZSSiebed9SjRpaevqBC2iv1Tc3HIrSoc",
+          "name": "Hada Gartengestaltung und Immobilien GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4940777777",
+              "phone_formatted": "+49 40 777777",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+494076753059",
+              "phone_formatted": "+49 40 76753059",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-09T10:12:01.033000+00:00",
+          "date_updated": "2026-06-09T10:12:01.033000+00:00",
+          "display_name": "+49 170 1878177",
+          "emails": [],
+          "id": "cont_7pNyy0L1GC2zHpwlwnARWQUjPhugjz8pnnNgVkaQ84n",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_gqEVIAIlitpZSSiebed9SjRpaevqBC2iv1Tc3HIrSoc",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491701878177",
+              "phone_formatted": "+49 170 1878177",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_gqEVIAIlitpZSSiebed9SjRpaevqBC2iv1Tc3HIrSoc",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_h4QoBVEK6DATKfAIyB0EQMF3A9tvQ55ZAcqx0VDdeM3": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:07:09.424000+00:00",
+          "date_updated": "2026-05-06T09:07:09.424000+00:00",
+          "display_name": "Otto Landschaftsbau & Dienstleistungen GmbH",
+          "emails": [
+            {
+              "email": "info@tiefbau-otto.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_Xz40FCzLFjrrwhZjxMnmkJrlCPkjPibDgbbylnSd0sk",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Otto%20Landschaftsbau%20%26%20Dienstleistungen%20GmbH"
+            }
+          ],
+          "lead_id": "lead_h4QoBVEK6DATKfAIyB0EQMF3A9tvQ55ZAcqx0VDdeM3",
+          "name": "Otto Landschaftsbau & Dienstleistungen GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493588201541",
+              "phone_formatted": "+49 3588 201541",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493588258378",
+              "phone_formatted": "+49 3588 258378",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_h4QoBVEK6DATKfAIyB0EQMF3A9tvQ55ZAcqx0VDdeM3",
+      "name": "",
+      "status_label": "Partner"
+    },
+    "lead_jU7M2DRO4NswvG8jWML77CKE4YbCk62VPwHxZOJbmsr": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T09:38:40.966000+00:00",
+          "date_updated": "2026-06-19T09:38:40.966000+00:00",
+          "display_name": "TF Kraftverkehr GmbH",
+          "emails": [
+            {
+              "email": "tf-kraftverkehr@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_DcrtecdHE44dhaYNVEN8yslIBP90DcgRseD7ILo7YvT",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=TF%20Kraftverkehr%20GmbH"
+            }
+          ],
+          "lead_id": "lead_jU7M2DRO4NswvG8jWML77CKE4YbCk62VPwHxZOJbmsr",
+          "name": "TF Kraftverkehr GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4967459348",
+              "phone_formatted": "+49 6745 9348",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4932221097432",
+              "phone_formatted": "+49 32 221097432",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_jU7M2DRO4NswvG8jWML77CKE4YbCk62VPwHxZOJbmsr",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-17T08:46:51.994000+00:00",
+          "date_updated": "2024-09-17T08:46:51.994000+00:00",
+          "display_name": "+49 251 7477448",
+          "emails": [],
+          "id": "cont_G8kqMkU0thPG02DMI4q4wEviTqvjccHZ77O1KBpMcW6",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+492517477448",
+              "phone_formatted": "+49 251 7477448",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-11-20T09:49:16.397000+00:00",
+          "date_updated": "2024-11-20T09:49:16.397000+00:00",
+          "display_name": "info@lohmann-spedition.de",
+          "emails": [
+            {
+              "email": "info@lohmann-spedition.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "p.lohmann@lohmann-spedition.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "w.lohmann@lohmann-spedition.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_NOiSaWPEddysxOjLigIOplIJd2n4MzQ93JUGMUxESao",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
+          "name": "",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-09T08:56:56.210000+00:00",
+          "date_updated": "2026-07-09T08:57:05.114000+00:00",
+          "display_name": "B. Richter - Lohmann-Spedition",
+          "emails": [
+            {
+              "email": "b.richter@lohmann-spedition.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_u4L1WXWjE6eCIyK3LSrnpCtCCfb0sme611B9mHKKhVC",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=B.%20Richter%20-%20Lohmann-Spedition"
+            }
+          ],
+          "lead_id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
+          "name": "B. Richter - Lohmann-Spedition",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
+      "name": "Lohmann Transport + Logistik GmbH",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:03:50.246000+00:00",
+          "date_updated": "2026-05-06T09:03:50.246000+00:00",
+          "display_name": "Comgatus GmbH",
+          "emails": [
+            {
+              "email": "info@comgatus.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_8eRKQBSI4fYrzV59iQcVAvDzblPqIXNUGQSjCf4MgId",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Comgatus%20GmbH"
+            }
+          ],
+          "lead_id": "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4",
+          "name": "Comgatus GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+494060944400",
+              "phone_formatted": "+49 40 60944400",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4",
+      "name": "",
+      "status_label": "Nicht Kontaktiert"
+    },
+    "lead_lEhBH63afLkXU5UHJPwvBodLJ0lL3enH6fQAhlFFx6b": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:48:57.061000+00:00",
+          "date_updated": "2026-06-19T20:41:23.466000+00:00",
+          "display_name": "Ernst Winkler Omnibusverkehr GmbH",
+          "emails": [
+            {
+              "email": "e.winkleromnibusverkehr@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "mail@winkler-touristik.info",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_FM4guKIRXlGtVYFQSwK1gPFa2zBT3vFkl24w3zFhA2T",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Ernst%20Winkler%20Omnibusverkehr%20GmbH"
+            }
+          ],
+          "lead_id": "lead_lEhBH63afLkXU5UHJPwvBodLJ0lL3enH6fQAhlFFx6b",
+          "name": "Ernst Winkler Omnibusverkehr GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4973825671",
+              "phone_formatted": "+49 7382 5671",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4973821799",
+              "phone_formatted": "+49 7382 1799",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_lEhBH63afLkXU5UHJPwvBodLJ0lL3enH6fQAhlFFx6b",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_lGy02kekKGRhPbQYT5LmZw8NhgUlvwhE0AH9hmGOZKt": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:35:51.784000+00:00",
+          "date_updated": "2024-09-18T08:35:51.784000+00:00",
+          "display_name": "Alex & Oli Reisen",
+          "emails": [
+            {
+              "email": "info@alex-oli-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_oYvLzxKlQ5nLLrTaUSFdhKwQ1iqN7vnARcgGzTH2bes",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Alex%20%26%20Oli%20Reisen"
+            }
+          ],
+          "lead_id": "lead_lGy02kekKGRhPbQYT5LmZw8NhgUlvwhE0AH9hmGOZKt",
+          "name": "Alex & Oli Reisen",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491716809506",
+              "phone_formatted": "+49 171 6809506",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_lGy02kekKGRhPbQYT5LmZw8NhgUlvwhE0AH9hmGOZKt",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_lZ5lTe6rtwwwIMkjSbMcQAHKJK78p7IlWqqJhlaPMGK": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:57:55.893000+00:00",
+          "date_updated": "2024-08-27T10:57:55.893000+00:00",
+          "display_name": "Karrer Beteiligungs-GmbH",
+          "emails": [
+            {
+              "email": "info@karrer-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_vG5a5vlrpDPXFNJfOmxcDyy3eKX2eA71oa7KPZpBDSl",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Karrer%20Beteiligungs-GmbH"
+            }
+          ],
+          "lead_id": "lead_lZ5lTe6rtwwwIMkjSbMcQAHKJK78p7IlWqqJhlaPMGK",
+          "name": "Karrer Beteiligungs-GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4983319250880",
+              "phone_formatted": "+49 8331 9250880",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+49833192508888",
+              "phone_formatted": "+49 8331 92508888",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:39:07.683000+00:00",
+          "date_updated": "2026-05-01T01:52:51.965000+00:00",
+          "display_name": "Karrer-Reisen GmbH & Co. KG Omnibusunternehmen",
+          "emails": [
+            {
+              "email": "info@karrer-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_t93K5dnJpz2XEKpn42O22bcOer0PJUI1tM5MwLGmCNS",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Karrer-Reisen%20GmbH%20%26%20Co.%20KG%20Omnibusunternehmen"
+            }
+          ],
+          "lead_id": "lead_lZ5lTe6rtwwwIMkjSbMcQAHKJK78p7IlWqqJhlaPMGK",
+          "name": "Karrer-Reisen GmbH & Co. KG Omnibusunternehmen",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4983319250880",
+              "phone_formatted": "+49 8331 9250880",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_lZ5lTe6rtwwwIMkjSbMcQAHKJK78p7IlWqqJhlaPMGK",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:54:16.110000+00:00",
+          "date_updated": "2024-08-27T10:54:16.110000+00:00",
+          "display_name": "Hartl Touristik e. K.",
+          "emails": [
+            {
+              "email": "hartl.touristik@gmx.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_tiWNtI2dT4w8PUy4DW1suCZ04pCHXWOvg24pSRWcNh1",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Hartl%20Touristik%20e.%20K."
+            }
+          ],
+          "lead_id": "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P",
+          "name": "Hartl Touristik e. K.",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4994222079979",
+              "phone_formatted": "+49 9422 2079979",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+4932121472736",
+              "phone_formatted": "+49 32 121472736",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-25T10:12:04.754000+00:00",
+          "date_updated": "2024-09-25T10:12:04.754000+00:00",
+          "display_name": "Kevin Häuptlein Fuhrpark",
+          "emails": [],
+          "id": "cont_f6VtTgclbzDYMAuOsACuNePovbSHmwj1mRYvXYjQo3L",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Kevin%20H%C3%A4uptlein%20Fuhrpark"
+            }
+          ],
+          "lead_id": "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P",
+          "name": "Kevin Häuptlein Fuhrpark",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_oFOJbnOFFfKrkwjjtnYhbiH5S41Zml6ySo5ut3Q0ewS": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T08:48:04.023000+00:00",
+          "date_updated": "2026-04-29T08:48:04.023000+00:00",
+          "display_name": "EK-Energie & Elektrotechnik GmbH",
+          "emails": [
+            {
+              "email": "info@ek-energie.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_RzUETm2NftSWcOwD2pde3XTQaZhdXRt7OBSZT1T2AGm",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=EK-Energie%20%26%20Elektrotechnik%20GmbH"
+            }
+          ],
+          "lead_id": "lead_oFOJbnOFFfKrkwjjtnYhbiH5S41Zml6ySo5ut3Q0ewS",
+          "name": "EK-Energie & Elektrotechnik GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4967629369980",
+              "phone_formatted": "+49 6762 9369980",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_oFOJbnOFFfKrkwjjtnYhbiH5S41Zml6ySo5ut3Q0ewS",
+      "name": "",
+      "status_label": "Nicht Kontaktiert"
+    },
+    "lead_oHyOQKqcP1b2fuX0l0jcgE7c5EC2qLtRKjCI2Nlzg4E": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:09:44.567000+00:00",
+          "date_updated": "2024-08-27T11:09:44.567000+00:00",
+          "display_name": "Personennahverkehrsgesellschaft Merseburg-Querfurt mbH",
+          "emails": [
+            {
+              "email": "info-querfurt@pnvg.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_Ga2KObPxbnOjbedMQ1XheYr5Tfb6xFxzhDZYVl71hPd",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Personennahverkehrsgesellschaft%20Merseburg-Querfurt%20mbH"
+            }
+          ],
+          "lead_id": "lead_oHyOQKqcP1b2fuX0l0jcgE7c5EC2qLtRKjCI2Nlzg4E",
+          "name": "Personennahverkehrsgesellschaft Merseburg-Querfurt mbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493477122002",
+              "phone_formatted": "+49 34771 22002",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+493477129655",
+              "phone_formatted": "+49 34771 29655",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-23T15:04:39.480000+00:00",
+          "date_updated": "2024-09-23T15:04:39.480000+00:00",
+          "display_name": "Herr Ditner (Fuhrparkleiter)",
+          "emails": [],
+          "id": "cont_7WFTfndZgttNGCGeLCRdlDMLdqU80uDcC6lpHu9oahY",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Herr%20Ditner%20%28Fuhrparkleiter%29"
+            }
+          ],
+          "lead_id": "lead_oHyOQKqcP1b2fuX0l0jcgE7c5EC2qLtRKjCI2Nlzg4E",
+          "name": "Herr Ditner (Fuhrparkleiter)",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49346128994160",
+              "phone_formatted": "+49 3461 28994160",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_oHyOQKqcP1b2fuX0l0jcgE7c5EC2qLtRKjCI2Nlzg4E",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_obboxX34zBwtlV9ohAqCPWLCIA992bVnNbUlqEo4n9B": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:48:36.005000+00:00",
+          "date_updated": "2026-04-30T08:48:36.005000+00:00",
+          "display_name": "Delta-Therm GmbH",
+          "emails": [
+            {
+              "email": "deltathermgmbh@gmail.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_psFstW37guQBVV59Y87BrFVTHqKvRSmLRcttVAVrm7u",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Delta-Therm%20GmbH"
+            }
+          ],
+          "lead_id": "lead_obboxX34zBwtlV9ohAqCPWLCIA992bVnNbUlqEo4n9B",
+          "name": "Delta-Therm GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4968979116198",
+              "phone_formatted": "+49 6897 9116198",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4968979117397",
+              "phone_formatted": "+49 6897 9117397",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_obboxX34zBwtlV9ohAqCPWLCIA992bVnNbUlqEo4n9B",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_ozURnLlhvYalf32annvMgRP4uqRd8eDZl8I1QgWHxHB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-02T11:49:31.708000+00:00",
+          "date_updated": "2026-05-02T11:49:33.253000+00:00",
+          "display_name": "Schotterwerk Leibfritz GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "schotterwerk.leibfritz@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "info@leibfritz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_kOfkE7fpnaJ3cDkkC6gC3fBwVgNY7eoS6EBzJ3Hwrzf",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Schotterwerk%20Leibfritz%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_ozURnLlhvYalf32annvMgRP4uqRd8eDZl8I1QgWHxHB",
+          "name": "Schotterwerk Leibfritz GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4971294420",
+              "phone_formatted": "+49 7129 4420",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4971294105",
+              "phone_formatted": "+49 7129 4105",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-03T16:02:41.938000+00:00",
+          "date_updated": "2026-06-03T16:02:41.938000+00:00",
+          "display_name": "Hartmut Leibfritz",
+          "emails": [
+            {
+              "email": "hartmut.leibfritz@schotterwerk-leibfritz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_RZ16vU15RhRKlgF7O1TR5Rnu0nCb17YrC6FhsW60X8s",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Hartmut%20Leibfritz"
+            }
+          ],
+          "lead_id": "lead_ozURnLlhvYalf32annvMgRP4uqRd8eDZl8I1QgWHxHB",
+          "name": "Hartmut Leibfritz",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_ozURnLlhvYalf32annvMgRP4uqRd8eDZl8I1QgWHxHB",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_pWXo6OKAeV3glSRaTJFNDhyEnsmmpgIssSbekfT5PNN": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-30T08:45:48.116000+00:00",
+          "date_updated": "2026-04-30T08:45:48.116000+00:00",
+          "display_name": "HAUBE GmbH",
+          "emails": [
+            {
+              "email": "post@haube.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9vodJHM0tzgly0Ln5Ur56oUoFP3Ut2UG9056DJjfRc8",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=HAUBE%20GmbH"
+            }
+          ],
+          "lead_id": "lead_pWXo6OKAeV3glSRaTJFNDhyEnsmmpgIssSbekfT5PNN",
+          "name": "HAUBE GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4917611012011",
+              "phone_formatted": "+49 176 11012011",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4938362341880",
+              "phone_formatted": "+49 3836 2341880",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_pWXo6OKAeV3glSRaTJFNDhyEnsmmpgIssSbekfT5PNN",
+      "name": "",
+      "status_label": "Im Kontakt"
+    },
+    "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-28T09:42:45+00:00",
+          "date_updated": "2026-04-28T09:44:33.849000+00:00",
+          "display_name": "Sächsisches Kurier- und Logistikzentrum Management GmbH",
+          "emails": [
+            {
+              "email": "sklm@sklm.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_m4lUKZJP0zWNIrIsaKAxO6IcTcNrM6qLJd4KH4KQlzE",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=S%C3%A4chsisches%20Kurier-%20und%20Logistikzentrum%20Management%20GmbH"
+            }
+          ],
+          "lead_id": "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB",
+          "name": "Sächsisches Kurier- und Logistikzentrum Management GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49351852070",
+              "phone_formatted": "+49 351 852070",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493518520723",
+              "phone_formatted": "+49 351 8520723",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB",
+      "name": "",
+      "status_label": "Disqualifiziert"
+    },
+    "lead_vKmCuNPEj884g7jKIINVMTS19qmkV1koMdkvg0nrKbO": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:21:47.042000+00:00",
+          "date_updated": "2026-06-11T09:21:47.042000+00:00",
+          "display_name": "g?hörig GmbH",
+          "emails": [
+            {
+              "email": "info@ghoerig.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9ilojuGPmrxB1HeYHd1mjl5wLbN5twG4PJd8QP0kbsk",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=g%3Fh%C3%B6rig%20GmbH"
+            }
+          ],
+          "lead_id": "lead_vKmCuNPEj884g7jKIINVMTS19qmkV1koMdkvg0nrKbO",
+          "name": "g?hörig GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+496438920903",
+              "phone_formatted": "+49 6438 920903",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+496438920904",
+              "phone_formatted": "+49 6438 920904",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_vKmCuNPEj884g7jKIINVMTS19qmkV1koMdkvg0nrKbO",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_vRQqVUKjRkMZ8W2T1JsXzcuXooxEjhvsi0uUJv0bipR": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-04T10:04:24.698000+00:00",
+          "date_updated": "2026-06-04T10:04:24.698000+00:00",
+          "display_name": "R & G EMSR - Technik GmbH",
+          "emails": [
+            {
+              "email": "roehreich@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_BtLDGapquHLlXJdvR9XdGjy0a0dB3xH9JSfoRo26Pog",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=R%20%26%20G%20EMSR%20-%20Technik%20GmbH"
+            }
+          ],
+          "lead_id": "lead_vRQqVUKjRkMZ8W2T1JsXzcuXooxEjhvsi0uUJv0bipR",
+          "name": "R & G EMSR - Technik GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493607793892",
+              "phone_formatted": "+49 36077 93892",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493607793893",
+              "phone_formatted": "+49 36077 93893",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_vRQqVUKjRkMZ8W2T1JsXzcuXooxEjhvsi0uUJv0bipR",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_xjMsLXQs9v0IHPxcF11j8n95lJho7CwvBfhvPJ7rxiN": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-11T09:24:41.978000+00:00",
+          "date_updated": "2026-06-11T09:24:41.978000+00:00",
+          "display_name": "Zimmerei Tobias Greinwald GmbH",
+          "emails": [
+            {
+              "email": "info@zimmerei-seeshaupt.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_gbeDvX0JHgXerhXPw9onhzhu99fKzZVsabHEqBt9e1F",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Zimmerei%20Tobias%20Greinwald%20GmbH"
+            }
+          ],
+          "lead_id": "lead_xjMsLXQs9v0IHPxcF11j8n95lJho7CwvBfhvPJ7rxiN",
+          "name": "Zimmerei Tobias Greinwald GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+498801913039",
+              "phone_formatted": "+49 8801 913039",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+498801913038",
+              "phone_formatted": "+49 8801 913038",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_xjMsLXQs9v0IHPxcF11j8n95lJho7CwvBfhvPJ7rxiN",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_yHCW7xi3H2ziEVm6DvCSMVK2cALVofDb29EpbZ0HZuU": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:04:46.719000+00:00",
+          "date_updated": "2024-08-27T11:04:46.719000+00:00",
+          "display_name": "Münsteraner Stadtrundfahrten GmbH",
+          "emails": [
+            {
+              "email": "tigges@muensteraner-stadtrundfahrten.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_GVGWBSSue4XEwkL6dj7yAFwgNaywr7lCUHaRUiOJc6o",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=M%C3%BCnsteraner%20Stadtrundfahrten%20GmbH"
+            }
+          ],
+          "lead_id": "lead_yHCW7xi3H2ziEVm6DvCSMVK2cALVofDb29EpbZ0HZuU",
+          "name": "Münsteraner Stadtrundfahrten GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49201857956070",
+              "phone_formatted": "+49 201 857956070",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+49201857956079",
+              "phone_formatted": "+49 201 857956079",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-10T09:44:15.953000+00:00",
+          "date_updated": "2024-09-10T09:44:15.953000+00:00",
+          "display_name": "Tigges",
+          "emails": [],
+          "id": "cont_c1QIZ61ukVb1RcBWr73R5QeyEqS3kIodNtZnzcf41xE",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Tigges"
+            }
+          ],
+          "lead_id": "lead_yHCW7xi3H2ziEVm6DvCSMVK2cALVofDb29EpbZ0HZuU",
+          "name": "Tigges",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+492513904761",
+              "phone_formatted": "+49 251 3904761",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_yHCW7xi3H2ziEVm6DvCSMVK2cALVofDb29EpbZ0HZuU",
+      "name": "",
+      "status_label": "Follow Up - Nachricht"
+    },
+    "lead_yMPnn6jC8tlOBtH2T7b7vajJg2kFrt0zm4cDyo72h4L": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-04-29T18:01:07.275000+00:00",
+          "date_updated": "2026-06-19T20:40:52.727000+00:00",
+          "display_name": "Paul Schulze Autobusbetrieb GmbH",
+          "emails": [
+            {
+              "email": "info@uhlenkoeper-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            },
+            {
+              "email": "info@p-schulze.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_do7fOwZZjWnWAgOfO6wHeTDneTENQ395boQZp6eUbFb",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Paul%20Schulze%20Autobusbetrieb%20GmbH"
+            }
+          ],
+          "lead_id": "lead_yMPnn6jC8tlOBtH2T7b7vajJg2kFrt0zm4cDyo72h4L",
+          "name": "Paul Schulze Autobusbetrieb GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4958197970",
+              "phone_formatted": "+49 581 97970",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49581979797",
+              "phone_formatted": "+49 581 979797",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:09:30.631000+00:00",
+          "date_updated": "2026-04-28T08:47:44.172000+00:00",
+          "display_name": "Uhlenköper-Reisen Paul Schulze Autobusbetrieb GmbH",
+          "emails": [
+            {
+              "email": "info@uhlenkoeper-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_dyuGuhxUm0NhGOkIfJzb2x07d9f5dGtTiULgAYFww7U",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Uhlenk%C3%B6per-Reisen%20Paul%20Schulze%20Autobusbetrieb%20GmbH"
+            }
+          ],
+          "lead_id": "lead_yMPnn6jC8tlOBtH2T7b7vajJg2kFrt0zm4cDyo72h4L",
+          "name": "Uhlenköper-Reisen Paul Schulze Autobusbetrieb GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4958197970",
+              "phone_formatted": "+49 581 97970",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+49581979797",
+              "phone_formatted": "+49 581 979797",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_yMPnn6jC8tlOBtH2T7b7vajJg2kFrt0zm4cDyo72h4L",
+      "name": "",
+      "status_label": "Im Kontakt"
+    }
+  },
+  "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-13T09:59:41.671000+00:00",
+      "date_updated": "2026-07-13T09:59:41.671000+00:00",
+      "date_won": null,
+      "id": "oppo_Nun7b0h6I70xZTMAimhwbDXHkbD3ElgKTV9JjBz0LtS",
+      "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+      "lead_name": "Mercer Timber Products GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-13T09:59:17.331000+00:00",
+      "date_updated": "2026-07-13T09:59:17.331000+00:00",
+      "date_won": null,
+      "id": "oppo_fqyavKXypaAzFP3xzNzJofxdRq8TIvp5m1oLWquoC2i",
+      "lead_id": "lead_GpmUjHT08H6zliqGRnqxYfXPALPlQ0yYjWwX6Eisvlg",
+      "lead_name": "Erdbau-suedwest",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-10T08:24:09.703000+00:00",
+      "date_updated": "2026-07-13T09:27:58.560000+00:00",
+      "date_won": null,
+      "id": "oppo_b9IsfoTlWZLjoL6MPy9nsNhYxQ71kOmDg67BLnFhurn",
+      "lead_id": "lead_jU7M2DRO4NswvG8jWML77CKE4YbCk62VPwHxZOJbmsr",
+      "lead_name": "TF Kraftverkehr GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-10T08:22:28.207000+00:00",
+      "date_updated": "2026-07-14T08:03:09.330000+00:00",
+      "date_won": null,
+      "id": "oppo_PbjHiAtiYy4RyGNYt0X9nbDVS9o5tvhLScwhCoDNOLD",
+      "lead_id": "lead_lEhBH63afLkXU5UHJPwvBodLJ0lL3enH6fQAhlFFx6b",
+      "lead_name": "Ernst Winkler Omnibusverkehr GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-09T09:08:02.239000+00:00",
+      "date_updated": "2026-07-09T09:08:02.239000+00:00",
+      "date_won": null,
+      "id": "oppo_pawae8ZwYfb5GaFoLEAjj3OERZOSIKQzbfaMLZoLlhr",
+      "lead_id": "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH",
+      "lead_name": "Müllbehälter-Reinigungs-Service Storch GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-09T08:57:09.814000+00:00",
+      "date_updated": "2026-07-09T08:57:09.814000+00:00",
+      "date_won": null,
+      "id": "oppo_uZDY7fliEn1G1G8j58OU0fO1HLWaiFS1IEDjlOdpd4r",
+      "lead_id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
+      "lead_name": "Lohmann Transport + Logistik GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-07T08:37:37.059000+00:00",
+      "date_updated": "2026-07-07T08:37:37.059000+00:00",
+      "date_won": null,
+      "id": "oppo_RFBo9eYO9erchypAHLbK8pXvkWQpxSyAuce1BP6AVHK",
+      "lead_id": "lead_vKmCuNPEj884g7jKIINVMTS19qmkV1koMdkvg0nrKbO",
+      "lead_name": "g?hörig GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-07T08:37:25.992000+00:00",
+      "date_updated": "2026-07-07T08:37:25.992000+00:00",
+      "date_won": null,
+      "id": "oppo_uMznYQh6qYT6jlwA83uuYxuZkloNRPiWISGEwyfGVKe",
+      "lead_id": "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF",
+      "lead_name": "Mein Lieblingsbäcker Fischer UG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-06T08:45:40.789000+00:00",
+      "date_updated": "2026-07-06T08:45:40.789000+00:00",
+      "date_won": null,
+      "id": "oppo_AFozQdhSJGtaR8E0oTbP4odmRfJc5vgWyBA0CusVn9M",
+      "lead_id": "lead_V4moFlXYZumHSpCPqoixSNBsOlYgasIET1884J1Fz9g",
+      "lead_name": "BERNDT K�ltetechnik GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-06T08:42:15.020000+00:00",
+      "date_updated": "2026-07-06T08:42:15.020000+00:00",
+      "date_won": null,
+      "id": "oppo_E1ahON2iJMp8p4a1FSwbfPzMILdOBMnERNLuZ8YExEL",
+      "lead_id": "lead_xjMsLXQs9v0IHPxcF11j8n95lJho7CwvBfhvPJ7rxiN",
+      "lead_name": "Zimmerei Tobias Greinwald GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-06T08:41:55.823000+00:00",
+      "date_updated": "2026-07-06T08:41:59.253000+00:00",
+      "date_won": null,
+      "id": "oppo_JdOmUAuR8RW3Ip1RQ0A9YrAprphRXlMpC4YPsUY8cle",
+      "lead_id": "lead_KfZ9u1RD6Mq0nLGqbqBq3gvY0EMLRAUPkKDVlFYNfwt",
+      "lead_name": "Samitis-HLS UG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-03T09:37:42.731000+00:00",
+      "date_updated": "2026-07-07T08:34:54.223000+00:00",
+      "date_won": null,
+      "id": "oppo_AYFXfh2ez8orRBhIzK0CGA4KVLKksRjqaAzuc1Be6XP",
+      "lead_id": "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB",
+      "lead_name": "Sächsisches Kurier- und Logistikzentrum Management GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-29T11:24:10.649000+00:00",
+      "date_updated": "2026-06-29T11:24:10.649000+00:00",
+      "date_won": null,
+      "id": "oppo_eY5HyO41Ym1PzZh22MP5QDKluCsenrlzQRtUmOnBwKr",
+      "lead_id": "lead_I55LX4M6u5JOaTXjI2cjc4a46pEfbhuevGC472MTcwq",
+      "lead_name": "Holzbau-Kunz GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-29T11:23:26.709000+00:00",
+      "date_updated": "2026-07-09T09:17:51.387000+00:00",
+      "date_won": null,
+      "id": "oppo_8MntbupwJszeQNFoQ8ny7nzWXACbSNcu4W11NjE4hvT",
+      "lead_id": "lead_8QclZBZkKrwB0feAZQ9xwlaQXIcfMlQAQyHuL2uIOCq",
+      "lead_name": "Holzbau Schweers GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-29T11:21:11.176000+00:00",
+      "date_updated": "2026-07-03T11:10:21.771000+00:00",
+      "date_won": null,
+      "id": "oppo_VfHGjtgFGjVtYhMCLD9gxhlXmQ19GBgCNcqSu68u9tu",
+      "lead_id": "lead_obboxX34zBwtlV9ohAqCPWLCIA992bVnNbUlqEo4n9B",
+      "lead_name": "Delta-Therm GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-26T19:52:58.457000+00:00",
+      "date_updated": "2026-06-26T19:53:01.680000+00:00",
+      "date_won": null,
+      "id": "oppo_UWEoHAlLYGti8pMdLkT5eRiWJBPVKMAdYmIEigf4Y0b",
+      "lead_id": "lead_IFJ33cz6DB1PjvClDzimolCtKnVbz2t3ayR9qH3ExjK",
+      "lead_name": "Armin Baumhammel, Bauha Ladenbau der Zeit e. K.",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-26T19:51:34.820000+00:00",
+      "date_updated": "2026-07-13T09:39:40.135000+00:00",
+      "date_won": null,
+      "id": "oppo_Mr9ZYu03VUEOc6sDKjDBlBlev8eoMh6CB4ed17CzVzT",
+      "lead_id": "lead_vRQqVUKjRkMZ8W2T1JsXzcuXooxEjhvsi0uUJv0bipR",
+      "lead_name": "R & G EMSR - Technik GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-26T08:06:31.522000+00:00",
+      "date_updated": "2026-07-13T10:24:20.599000+00:00",
+      "date_won": null,
+      "id": "oppo_FFd7Z2jVwqGUG8qHxVCVfN0MWKcynX00tmnXHW88VqL",
+      "lead_id": "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9",
+      "lead_name": "Volbert Holz in Form GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-25T17:20:23.434000+00:00",
+      "date_updated": "2026-07-09T09:12:01.083000+00:00",
+      "date_won": null,
+      "id": "oppo_bNKh3hUkaxWWx391EvUtNziUBLIc3KpQnf9g8KMaGBF",
+      "lead_id": "lead_LkcY0vJAAISFCmz9n0zp7aJqBbJ2qyrzu8H0JpYAcPN",
+      "lead_name": "Welter´s Reisen GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-23T07:49:29.303000+00:00",
+      "date_updated": "2026-06-23T07:50:12.225000+00:00",
+      "date_won": null,
+      "id": "oppo_usVfnoN9LNL7SqBS7Wcv5Ao3PrP6q45iqxI5dasqUbH",
+      "lead_id": "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz",
+      "lead_name": "Michael Schütt Heizungstechnik GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-22T20:00:00.284000+00:00",
+      "date_updated": "2026-07-09T09:11:42.482000+00:00",
+      "date_won": null,
+      "id": "oppo_JhbjVlmUAL7Ym6xFaNNj7rurbvhJiTHj9dKts3NoFoG",
+      "lead_id": "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx",
+      "lead_name": "Peter Kaßner - Lieblingskoch Catering e. K.",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-20T13:39:59.213000+00:00",
+      "date_updated": "2026-06-25T11:27:30.336000+00:00",
+      "date_won": null,
+      "id": "oppo_7dJCDnBn5P1B72a1or7aDCFSWWSEKDbl44CzHFq8epA",
+      "lead_id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
+      "lead_name": "Holstein Bau GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-20T08:52:00.291000+00:00",
+      "date_updated": "2026-06-25T18:05:45.908000+00:00",
+      "date_won": null,
+      "id": "oppo_72ktaAyxwAm6FPIVHAlVou7HCXMW37E5ED8sKfedKAr",
+      "lead_id": "lead_QzNI9MimzOjXmdkqF2Py2YP5zY0XdkQrmV198qMfUhJ",
+      "lead_name": "HV Heda GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-16T16:34:56.499000+00:00",
+      "date_updated": "2026-06-25T08:16:06.117000+00:00",
+      "date_won": "2026-06-25",
+      "id": "oppo_YSsu8FGpoitOwT5w5gopPULpPWIoD1pEMHKGdEgTcwV",
+      "lead_id": "lead_D0J5XtE8x1GO0e5ApjnMV5R0Pl0iCvtUqus8agijNZa",
+      "lead_name": "Isabella Filek GmbH & Co. KG",
+      "note": "Weiter vermittelt Firma macht zu",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-16T08:02:02.471000+00:00",
+      "date_updated": "2026-07-09T09:11:10.059000+00:00",
+      "date_won": null,
+      "id": "oppo_JQDlljlNDHHumSb71od38bl6JTKf0pIfVRcBHwBrgIR",
+      "lead_id": "lead_VU8VxNzSoFVf7aFp6n0YJTiPvKSxOxS5uhf3Xfd87av",
+      "lead_name": "T.B.B. Technikbauplanung und -beratung GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-10T09:32:55.697000+00:00",
+      "date_updated": "2026-07-09T09:10:32.170000+00:00",
+      "date_won": null,
+      "id": "oppo_v7ELgeD0jF74PLE4lECfFaXzbw8azSyOFsXLJNsEmTZ",
+      "lead_id": "lead_41wU1oVgg80Vvm9qj9eiGUDoMOrUg2vFmMKNK4NDXQD",
+      "lead_name": "Erich Roder Heizung Sanit�r Bauklempnerei GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-09T07:53:08.946000+00:00",
+      "date_updated": "2026-07-09T09:09:48.221000+00:00",
+      "date_won": null,
+      "id": "oppo_3qEsbEj7ZtVft46VGKshyIpb6cyg47Etbyu3QjqcKvN",
+      "lead_id": "lead_pWXo6OKAeV3glSRaTJFNDhyEnsmmpgIssSbekfT5PNN",
+      "lead_name": "HAUBE GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-09T07:49:33.703000+00:00",
+      "date_updated": "2026-07-09T09:07:09.801000+00:00",
+      "date_won": null,
+      "id": "oppo_4qTJu5M0704ip5PANalqGdkthf2cYbUb6tFZFN29tET",
+      "lead_id": "lead_HLd6UJlfkmKzUhEoThcZp779HlWky1iDcpxb6Tg3VMH",
+      "lead_name": "Karl Dingler GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-05T10:57:38.803000+00:00",
+      "date_updated": "2026-06-29T16:48:34.834000+00:00",
+      "date_won": "2026-06-29",
+      "id": "oppo_q9Ra38d3u4A0c2wivjtGShexlWsA6K9SX9tmlQS91OA",
+      "lead_id": "lead_2jKqaSXEQWcHS7CaZ7RLr7qYBe2eQuuaXBYpaV7I5Z0",
+      "lead_name": "Rainer Wachtel Heizung Sanitär GmbH",
+      "note": "Ford Custom",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-03T15:18:58.754000+00:00",
+      "date_updated": "2026-06-30T10:18:00.649000+00:00",
+      "date_won": null,
+      "id": "oppo_m6z1rWHRm9gwBx1YvxzjtrndCyqqDafLdO7QewQpYkQ",
+      "lead_id": "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK",
+      "lead_name": "CT Logistik GmbH & Co. KG",
+      "note": "LKW",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-03T14:07:40.548000+00:00",
+      "date_updated": "2026-07-09T09:06:02.716000+00:00",
+      "date_won": null,
+      "id": "oppo_piWzAPO817aneoV2kFS6FJxHeIILcbAHv6OxI9WzIoo",
+      "lead_id": "lead_ozURnLlhvYalf32annvMgRP4uqRd8eDZl8I1QgWHxHB",
+      "lead_name": "Schotterwerk Leibfritz GmbH & Co. KG",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-02T18:29:36.448000+00:00",
+      "date_updated": "2026-07-09T09:05:53.447000+00:00",
+      "date_won": null,
+      "id": "oppo_Q0kUTpRugtZ2Yps8eUARIxoIkToXgceI8IlHTxhQak8",
+      "lead_id": "lead_1P9vSrItKS95kXEGSJFuVEf25lhtm575ZMSXFTRrdOk",
+      "lead_name": "Dominique Loch EI",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-02T16:22:30.384000+00:00",
+      "date_updated": "2026-06-02T16:22:49.510000+00:00",
+      "date_won": "2026-06-02",
+      "id": "oppo_3kgziY9VYa0W9eAobtpNVnhJMwjPHCeh263r0XW1f4m",
+      "lead_id": "lead_WaibVQYiwmnS95TrPKlbMiCUXKxDL1ZBEqGBjulwvZK",
+      "lead_name": "Nick Ge",
+      "note": "Peiffer Deal 1",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-06-01T09:35:35.356000+00:00",
+      "date_updated": "2026-07-09T09:05:18.082000+00:00",
+      "date_won": null,
+      "id": "oppo_pWOd9UtFElT2qRSNMRQkruyqgVGivzXZefSt5uyPXBp",
+      "lead_id": "lead_ggXVIpuXItnqeYbinAE1GmOAgJVc9RFnwD8PwWAqMJi",
+      "lead_name": "IKS GmbH Installationsbetrieb für Klempner- und Sanitäranlagen",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-31T13:46:24.233000+00:00",
+      "date_updated": "2026-06-16T07:57:11.725000+00:00",
+      "date_won": null,
+      "id": "oppo_Kc7j1NbHTRa0mczdLNCPOVbaPiKyl5SO6LV4CUewDtd",
+      "lead_id": "lead_gqEVIAIlitpZSSiebed9SjRpaevqBC2iv1Tc3HIrSoc",
+      "lead_name": "Hada Gartengestaltung und Immobilien GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-31T10:52:56.213000+00:00",
+      "date_updated": "2026-07-09T09:03:16.081000+00:00",
+      "date_won": null,
+      "id": "oppo_iq5DXL6xqBPWVRXmvzpctwIfMTj7J7LraopumJdvBtp",
+      "lead_id": "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5",
+      "lead_name": "Dennis König Garten- und Landschaftsbau GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-29T07:35:19.826000+00:00",
+      "date_updated": "2026-06-25T17:38:58.011000+00:00",
+      "date_won": null,
+      "id": "oppo_RP8ptfxc7QB0QzjeeVUCheBsxFzmsAs1388zvrw3Jy6",
+      "lead_id": "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB",
+      "lead_name": "Brandschutz Krampitz GmbH",
+      "note": "Caddy Maxi",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-28T11:21:36.360000+00:00",
+      "date_updated": "2026-06-16T08:00:23.152000+00:00",
+      "date_won": null,
+      "id": "oppo_9lRWwq74DztErbXc5DEELUrdNsdh9CYUwklGduwG2rY",
+      "lead_id": "lead_YnHao2pDU09KhDujpFRn9TOSAd992d1EydpnUJzdfl6",
+      "lead_name": "MK-Ambulanz GmbH Krankenfahrdienst",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-26T12:53:42.060000+00:00",
+      "date_updated": "2026-06-09T07:49:21.843000+00:00",
+      "date_won": null,
+      "id": "oppo_ND47gOPGB4IjIQdL0MGFBCWR4VgdHtZxmuRxaAeBZ3V",
+      "lead_id": "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4",
+      "lead_name": "Comgatus GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-26T12:52:33.087000+00:00",
+      "date_updated": "2026-06-01T09:32:37.089000+00:00",
+      "date_won": null,
+      "id": "oppo_rxciRjfB3Npm3SwKU6u1lC3sZxrNxkOrIedQ1ho5V8p",
+      "lead_id": "lead_oFOJbnOFFfKrkwjjtnYhbiH5S41Zml6ySo5ut3Q0ewS",
+      "lead_name": "EK-Energie & Elektrotechnik GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-20T08:12:22.699000+00:00",
+      "date_updated": "2026-07-09T09:02:26.566000+00:00",
+      "date_won": null,
+      "id": "oppo_8W4bkFiurUNqbItsIM50iarHnZBAWgDcaZo5Mrh4E5J",
+      "lead_id": "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB",
+      "lead_name": "Kohouts Garten- und Landschaftsbau GmbH",
+      "note": "Baumaschine zum Verkauf.",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-19T15:34:06.028000+00:00",
+      "date_updated": "2026-06-09T07:58:01.431000+00:00",
+      "date_won": "2026-06-04",
+      "id": "oppo_DEg0vcUQIC35vcVjcCI0TMvAuXTmysmDHiAwZcWegoi",
+      "lead_id": "lead_h4QoBVEK6DATKfAIyB0EQMF3A9tvQ55ZAcqx0VDdeM3",
+      "lead_name": "Otto Landschaftsbau & Dienstleistungen GmbH",
+      "note": "Mitsubishi",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-14T11:38:27.845000+00:00",
+      "date_updated": "2026-07-09T09:01:56.948000+00:00",
+      "date_won": null,
+      "id": "oppo_SpMcbbkddkaK1EfxcCEzugixQnL7aWmG4qFQ2zmOEnc",
+      "lead_id": "lead_UmJwq8xDZm0ZHh6uYdnxHso0w0Q42EO4CivqYcakuoZ",
+      "lead_name": "Sanitär- & Heizungsschmiede Böhme GmbH",
+      "note": "Citan, Sprinter und GL63 AMG",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-05-12T12:01:00.635000+00:00",
+      "date_updated": "2026-07-09T09:01:32.881000+00:00",
+      "date_won": null,
+      "id": "oppo_rpQJYrzn4cxTIjBspAZIRztGjSrR7hgwWZQVAmpEmWS",
+      "lead_id": "lead_JXqsfOEUkEM0lmoCXkGqaAGT8WDusj2whrCtsy6CrCn",
+      "lead_name": "Quarzsandwerk Lang GmbH & Co. KG",
+      "note": "Auf Website genug abchecken und überprüfen",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-04-29T09:01:44.443000+00:00",
+      "date_updated": "2026-06-13T11:04:13.402000+00:00",
+      "date_won": null,
+      "id": "oppo_WnFSatH9iXTDyyg2gxIBtBwTRl7TLdoIKKPcw4LtdNY",
+      "lead_id": "lead_JJ8d3DTRwdGKfFOHhNKlyE7yWJ5w2u6icLpadCDBpwt",
+      "lead_name": "Nahverkehr Mainfranken GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 80,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-04-29T08:52:06.201000+00:00",
+      "date_updated": "2026-06-01T09:34:08.130000+00:00",
+      "date_won": "2026-08-20",
+      "id": "oppo_3hUr1bAPd1qjogzvSo5ThIBLS5TljYPCLW3jIntbrPF",
+      "lead_id": "lead_chMQcCtZUCGJRjsiQPIZWGmLt3wZXF4R6SlhR5YlIwW",
+      "lead_name": "Bock Touristik GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-04-29T08:50:06.761000+00:00",
+      "date_updated": "2026-05-28T11:24:33.103000+00:00",
+      "date_won": null,
+      "id": "oppo_hUfstKM85dn2Q3Zzg549GiaoCtU7ISSMskjoRsK65yg",
+      "lead_id": "lead_lGy02kekKGRhPbQYT5LmZw8NhgUlvwhE0AH9hmGOZKt",
+      "lead_name": "Alex & Oli Reisen",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-04-28T08:38:52.200000+00:00",
+      "date_updated": "2026-05-18T13:12:23.409000+00:00",
+      "date_won": null,
+      "id": "oppo_lfzC5lOCSXnZBHI7HBo4ABot9frp7o2nvnAwO2Xld4d",
+      "lead_id": "lead_N36CDWTcyax9q7lel0Yp71ck80ge7hA6DYiWzSJvAB9",
+      "lead_name": "Roth Industriereinigung GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-11-17T07:57:35.732000+00:00",
+      "date_updated": "2026-06-01T09:33:38.176000+00:00",
+      "date_won": null,
+      "id": "oppo_B6JkS6rpWSw8Dnzz03nqwyRtnX3UNfbAxIo0cvvT9eS",
+      "lead_id": "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX",
+      "lead_name": "Böhm & Besold GmbH Internationale Spedition",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-11-10T10:49:24.561000+00:00",
+      "date_updated": "2026-07-10T08:27:57.187000+00:00",
+      "date_won": "2026-07-13",
+      "id": "oppo_eKHJAP6372L3XyDHvgDPS0S5zmwzsaShhbHKkZqjfrh",
+      "lead_id": "lead_lZ5lTe6rtwwwIMkjSbMcQAHKJK78p7IlWqqJhlaPMGK",
+      "lead_name": "Karrer Beteiligungs-GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-09-29T07:58:23.793000+00:00",
+      "date_updated": "2026-06-01T09:33:37.142000+00:00",
+      "date_won": null,
+      "id": "oppo_Ofektc2J7MS7qlGcpaQ19zccQBatfaCrznVUJYDGpSO",
+      "lead_id": "lead_LsYnGLC7s14M9BA2vkAL457d0WByx5yRx65hPKxJSE0",
+      "lead_name": "Spedition, Transporte & Autohandel Frank Gutekunst",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-09-23T11:40:33.314000+00:00",
+      "date_updated": "2026-06-01T09:33:34.721000+00:00",
+      "date_won": null,
+      "id": "oppo_j6jwVbLGiWlUfJcAVvRAuj2c06wQa9ZkX3dqOmdAjLX",
+      "lead_id": "lead_JaCNB33lvncOONOwGjlDhStWwxkxQgGebvHUMZhWTBc",
+      "lead_name": "Kraftverkehr Herwig Schreiber GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-09-14T16:10:42.760000+00:00",
+      "date_updated": "2025-09-14T16:10:42.760000+00:00",
+      "date_won": "2025-09-14",
+      "id": "oppo_AL2CwqWzELyMQR8V72Ijz0lwnne8zkZT0YSojbd2QiN",
+      "lead_id": "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho",
+      "lead_name": "SEITZ Bus GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2025-08-26T09:27:35.611000+00:00",
+      "date_updated": "2026-06-29T11:20:52.500000+00:00",
+      "date_won": "2026-07-28",
+      "id": "oppo_sv6xmXpqOsWa0N5o4bY7YnTk4QRfOs7S3J1wphwBJEA",
+      "lead_id": "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB",
+      "lead_name": "MVB-Verwaltungs-GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-10-29T07:53:44.171000+00:00",
+      "date_updated": "2025-01-18T10:09:03.661000+00:00",
+      "date_won": "2025-01-18",
+      "id": "oppo_DQhUnuTUbcBtzyYfKj8TZfuIKbSlon8tORiTLmppc0g",
+      "lead_id": "lead_chMQcCtZUCGJRjsiQPIZWGmLt3wZXF4R6SlhR5YlIwW",
+      "lead_name": "Bock Touristik GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-10-29T07:10:08.436000+00:00",
+      "date_updated": "2025-01-07T08:49:57.279000+00:00",
+      "date_won": "2025-01-07",
+      "id": "oppo_nkUpo2Gb1bjagiIh5d0gGHxUqpDp61D9MebH5lRNU17",
+      "lead_id": "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9",
+      "lead_name": "Omnibus Fichter Reiseservice GmbH (O und R Reiservice)",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-10-22T09:26:19.179000+00:00",
+      "date_updated": "2026-06-01T09:33:33.165000+00:00",
+      "date_won": null,
+      "id": "oppo_dGtTSp3WKyIwjP7SnlLsiqTBFGkf2UmRvOXR6aDRDV1",
+      "lead_id": "lead_8GxJMxKYvIK25odohWFiQnPrsaNGBOxkf9WuCre2c2m",
+      "lead_name": "Penkun-Tourist GmbH",
+      "note": "Renault Trafic",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-25T10:10:36.592000+00:00",
+      "date_updated": "2026-06-01T09:33:31.995000+00:00",
+      "date_won": null,
+      "id": "oppo_h5ihDGe8naUjSPVUPV3axq53TJACyBqzt7CpQXWHopM",
+      "lead_id": "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P",
+      "lead_name": "Hartl Touristik e. K.",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-25T08:46:07.498000+00:00",
+      "date_updated": "2026-06-01T09:33:30.790000+00:00",
+      "date_won": null,
+      "id": "oppo_mmPsnypxKIqjmaRU2wQbc5GAmyvqCEZbT8uCJlwGkn0",
+      "lead_id": "lead_RCcaJylTSFjV8yL81KuUjVQaX4aSfTdeB5woI9vWCjh",
+      "lead_name": "Städtische Nahverkehrsgesellschaft mbH Suhl/Zella-Mehlis",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-25T08:20:03.281000+00:00",
+      "date_updated": "2026-04-28T08:48:50.455000+00:00",
+      "date_won": null,
+      "id": "oppo_qyXcnIm7wlq3bKn7mB8EslwuMHLeOpmCgkh7VaiPaQ2",
+      "lead_id": "lead_CW3aUTjvWmpQeBtRumd7T7Ca6exu2sfkOU7iVhqYNNi",
+      "lead_name": "Optimal Reisen Mersch GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-20T08:57:33.162000+00:00",
+      "date_updated": "2026-05-28T11:24:52.495000+00:00",
+      "date_won": null,
+      "id": "oppo_n2Gc3mOTHko998JFRkQeIKWrqD8AKCUN9RLE9cSbpW2",
+      "lead_id": "lead_oHyOQKqcP1b2fuX0l0jcgE7c5EC2qLtRKjCI2Nlzg4E",
+      "lead_name": "Personennahverkehrsgesellschaft Merseburg-Querfurt mbH",
+      "note": "https://www.pnvg.de/?page_id=91",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-20T08:45:40.289000+00:00",
+      "date_updated": "2026-06-13T11:04:08.024000+00:00",
+      "date_won": "2026-08-01",
+      "id": "oppo_SdqcAyn1cvChRrOySTrPNAilYZzqLrflK12Ce930oZP",
+      "lead_id": "lead_yMPnn6jC8tlOBtH2T7b7vajJg2kFrt0zm4cDyo72h4L",
+      "lead_name": "Paul Schulze Autobusbetrieb GmbH",
+      "note": "Bus zum Verkauf stehen",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-17T14:54:21.379000+00:00",
+      "date_updated": "2026-06-01T09:33:29.363000+00:00",
+      "date_won": null,
+      "id": "oppo_0PmWXGx1wWzdP8mLygih1mmtA7bIfnHXYyXFzuouuHp",
+      "lead_id": "lead_92fcvYwRnOKiwrsZSBsQreGTOqM406mQHSOloxBopgB",
+      "lead_name": "Willi Wächter, Omnibusreisen e. K.",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 0,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2024-09-10T09:47:21.536000+00:00",
+      "date_updated": "2026-04-28T08:39:47.687000+00:00",
+      "date_won": "2024-10-01",
+      "id": "oppo_tWlmaikgkiRTWPmfLBAGFZfsFMseta9QlgQPUFYL5lj",
+      "lead_id": "lead_yHCW7xi3H2ziEVm6DvCSMVK2cALVofDb29EpbZ0HZuU",
+      "lead_name": "Münsteraner Stadtrundfahrten GmbH",
+      "note": "",
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    }
+  ]
+}
