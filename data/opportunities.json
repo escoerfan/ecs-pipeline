@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T10:55:29.743806+00:00",
-  "count": 66,
+  "generated_at": "2026-07-15T12:12:45.670823+00:00",
+  "count": 67,
   "pipelines": [
     {
       "created_by": null,
@@ -2129,6 +2129,42 @@
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
     },
+    "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-29T10:06:17.874000+00:00",
+          "date_updated": "2026-06-29T11:07:08.615000+00:00",
+          "display_name": "Heinz Oelkers Flachdach- und Fassadenbau GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "a-oelkers@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_WkIFIo0Cowc32GX4iWTZuqG4fnHJsOFDXlgTodmSbtB",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Heinz%20Oelkers%20Flachdach-%20und%20Fassadenbau%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO",
+          "name": "Heinz Oelkers Flachdach- und Fassadenbau GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_cdTSeXV1FzywRdcTeEYh4vj94SjdwCqddSb2qbwd9JX": {
       "contacts": [
         {
@@ -3733,6 +3769,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-15T11:40:46.113000+00:00",
+      "date_updated": "2026-07-15T11:40:52.356000+00:00",
+      "date_won": null,
+      "id": "oppo_41LC6ZBdUCtoS4rrsOw4hhN2S2Qw6rC2BxSzUpdcVmb",
+      "lead_id": "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO",
+      "lead_name": "Heinz Oelkers Flachdach- und Fassadenbau GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
