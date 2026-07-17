@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:06:20.182329+00:00",
+  "generated_at": "2026-07-17T19:33:14.092491+00:00",
   "count": 52,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -175,14 +175,190 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-06-23T11:52:48.617000+00:00",
+      "date_updated": "2026-07-17T19:32:51.009000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
+      "n_leads": 2902,
+      "n_leads_processed": 740,
+      "n_objects": 2902,
+      "n_objects_processed": 740,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "mode": "beginning_of_words",
+                          "type": "text",
+                          "value": "81.22 Spezielle Reinigung von Gebäuden und Reinigung von Maschinen"
+                        },
+                        "field": {
+                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
+                          "type": "custom_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  }
+                ],
+                "type": "and"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_eE6891w44ndF7eUh9rGwmpCdfuNaRhqklZMfE6yXdnm",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-06-30T11:07:12.727000+00:00",
+      "date_updated": "2026-07-17T19:32:49.988000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
+      "n_leads": 2730,
+      "n_leads_processed": 130,
+      "n_objects": 2730,
+      "n_objects_processed": 130,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "mode": "beginning_of_words",
+                          "type": "text",
+                          "value": " Bau von Straßen"
+                        },
+                        "field": {
+                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
+                          "type": "custom_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  }
+                ],
+                "type": "and"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-25T11:28:37.416000+00:00",
-      "date_updated": "2026-07-17T18:06:01.785000+00:00",
+      "date_updated": "2026-07-17T19:32:49.885000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_p0LaWQciGkK9CSniHqrCYPm6zAJlo1dZZUlWi3G88HE",
       "n_leads": 1064,
-      "n_leads_processed": 424,
+      "n_leads_processed": 444,
       "n_objects": 1064,
-      "n_objects_processed": 424,
+      "n_objects_processed": 444,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -300,199 +476,14 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-07-09T08:34:43.848000+00:00",
-      "date_updated": "2026-07-17T18:05:59.922000+00:00",
-      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_cySDhMUPJrrnyjUx5NaQBHZq80rTTcbeM7DuAFr4IA7",
-      "n_leads": 802,
-      "n_leads_processed": 772,
-      "n_objects": 802,
-      "n_objects_processed": 772,
-      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-      "query": "",
-      "results_limit": null,
-      "s_query": {
-        "negate": false,
-        "queries": [
-          {
-            "negate": false,
-            "queries": [
-              {
-                "negate": false,
-                "object_type": "lead",
-                "type": "object_type"
-              },
-              {
-                "negate": false,
-                "queries": [
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.created",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_Q264kHbczjkXOQi9512RfFxYvxHdPbBWBcZsn8E8ZBH"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.created",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  }
-                ],
-                "type": "or"
-              }
-            ],
-            "type": "and"
-          },
-          {
-            "negate": false,
-            "related_object_type": "contact",
-            "related_query": {
-              "negate": false,
-              "related_object_type": "contact_email",
-              "related_query": {
-                "condition": {
-                  "type": "boolean",
-                  "value": false
-                },
-                "field": {
-                  "field_name": "is_unsubscribed",
-                  "object_type": "contact_email",
-                  "type": "regular_field"
-                },
-                "negate": false,
-                "type": "field_condition"
-              },
-              "this_object_type": "contact",
-              "type": "has_related"
-            },
-            "this_object_type": "lead",
-            "type": "has_related"
-          }
-        ],
-        "type": "and"
-      },
-      "send_done_email": true,
-      "sender": "David Stein <kontakt@elegancecarsafi.com>",
-      "sort": [],
-      "status": "processing",
-      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
-      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
-    },
-    {
-      "contact_preference": "contact",
-      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-06-30T11:07:12.727000+00:00",
-      "date_updated": "2026-07-17T18:05:59.876000+00:00",
-      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
-      "n_leads": 2730,
-      "n_leads_processed": 120,
-      "n_objects": 2730,
-      "n_objects_processed": 120,
-      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-      "query": "",
-      "results_limit": null,
-      "s_query": {
-        "negate": false,
-        "queries": [
-          {
-            "negate": false,
-            "queries": [
-              {
-                "negate": false,
-                "object_type": "lead",
-                "type": "object_type"
-              },
-              {
-                "negate": false,
-                "queries": [
-                  {
-                    "negate": false,
-                    "queries": [
-                      {
-                        "condition": {
-                          "mode": "beginning_of_words",
-                          "type": "text",
-                          "value": " Bau von Straßen"
-                        },
-                        "field": {
-                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
-                          "type": "custom_field"
-                        },
-                        "negate": false,
-                        "type": "field_condition"
-                      }
-                    ],
-                    "type": "and"
-                  }
-                ],
-                "type": "and"
-              }
-            ],
-            "type": "and"
-          },
-          {
-            "negate": false,
-            "related_object_type": "contact",
-            "related_query": {
-              "negate": false,
-              "related_object_type": "contact_email",
-              "related_query": {
-                "condition": {
-                  "type": "boolean",
-                  "value": false
-                },
-                "field": {
-                  "field_name": "is_unsubscribed",
-                  "object_type": "contact_email",
-                  "type": "regular_field"
-                },
-                "negate": false,
-                "type": "field_condition"
-              },
-              "this_object_type": "contact",
-              "type": "has_related"
-            },
-            "this_object_type": "lead",
-            "type": "has_related"
-          }
-        ],
-        "type": "and"
-      },
-      "send_done_email": true,
-      "sender": "David Stein <kontakt@elegancecarsafi.com>",
-      "sort": [],
-      "status": "processing",
-      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
-      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
-    },
-    {
-      "contact_preference": "contact",
-      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-29T11:45:59.344000+00:00",
-      "date_updated": "2026-07-17T18:05:59.862000+00:00",
+      "date_updated": "2026-07-17T19:32:49.508000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_60Ed0qMKyEGkSvkZFuxEF3YO7TK4cvc8iMdW2ODCSEj",
       "n_leads": 558,
-      "n_leads_processed": 410,
+      "n_leads_processed": 428,
       "n_objects": 558,
-      "n_objects_processed": 410,
+      "n_objects_processed": 428,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -601,14 +592,14 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-06-23T11:52:48.617000+00:00",
-      "date_updated": "2026-07-17T18:05:58.401000+00:00",
+      "date_created": "2026-07-09T08:34:43.848000+00:00",
+      "date_updated": "2026-07-17T19:32:48.893000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
-      "n_leads": 2902,
-      "n_leads_processed": 730,
-      "n_objects": 2902,
-      "n_objects_processed": 730,
+      "id": "bulkemail_cySDhMUPJrrnyjUx5NaQBHZq80rTTcbeM7DuAFr4IA7",
+      "n_leads": 802,
+      "n_leads_processed": 782,
+      "n_objects": 802,
+      "n_objects_processed": 782,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -628,25 +619,34 @@
                 "queries": [
                   {
                     "negate": false,
-                    "queries": [
-                      {
-                        "condition": {
-                          "mode": "beginning_of_words",
-                          "type": "text",
-                          "value": "81.22 Spezielle Reinigung von Gebäuden und Reinigung von Maschinen"
-                        },
-                        "field": {
-                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
-                          "type": "custom_field"
-                        },
-                        "negate": false,
-                        "type": "field_condition"
-                      }
-                    ],
-                    "type": "and"
+                    "related_object_type": "activity.created",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_Q264kHbczjkXOQi9512RfFxYvxHdPbBWBcZsn8E8ZBH"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.created",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
                   }
                 ],
-                "type": "and"
+                "type": "or"
               }
             ],
             "type": "and"
@@ -683,7 +683,7 @@
       "sender": "David Stein <kontakt@elegancecarsafi.com>",
       "sort": [],
       "status": "processing",
-      "template_id": "tmpl_eE6891w44ndF7eUh9rGwmpCdfuNaRhqklZMfE6yXdnm",
+      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
       "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
     },
     {
