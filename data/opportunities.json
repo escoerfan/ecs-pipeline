@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:54:26.137685+00:00",
-  "count": 67,
+  "generated_at": "2026-07-20T07:56:20.538834+00:00",
+  "count": 71,
   "pipelines": [
     {
       "created_by": null,
@@ -236,6 +236,42 @@
       "id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-29T11:12:19.944000+00:00",
+          "date_updated": "2026-06-29T11:12:19.944000+00:00",
+          "display_name": "info@janoshs-fahrschule.de",
+          "emails": [
+            {
+              "email": "info@janoshs-fahrschule.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_fV6LnQ4MJJZ74rYV8UbEjuHpsljwuozWtiFjrMcVX0b",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4",
+          "name": null,
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4",
+      "name": "Janosh's Fahrschule",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH": {
       "contacts": [
@@ -668,6 +704,42 @@
       "id": "lead_D0J5XtE8x1GO0e5ApjnMV5R0Pl0iCvtUqus8agijNZa",
       "name": "",
       "status_label": "Partner"
+    },
+    "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-29T11:13:08.321000+00:00",
+          "date_updated": "2026-06-29T11:13:08.321000+00:00",
+          "display_name": "info@fahrschule-semma.de",
+          "emails": [
+            {
+              "email": "info@fahrschule-semma.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_YsVK6gdrx3kXybqH4Tsrazf55WQVKHd0b2Rw8f5067U",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE",
+          "name": null,
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE",
+      "name": "Fahrschule Semma",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB": {
       "contacts": [
@@ -1297,6 +1369,55 @@
       "id": "lead_KfZ9u1RD6Mq0nLGqbqBq3gvY0EMLRAUPkKDVlFYNfwt",
       "name": "",
       "status_label": "Follow Up - Nachricht"
+    },
+    "lead_LDXqAgbV242vdrIL6EnipjeRszdVo4kGkCpmpfelNTu": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-26T08:00:36.356000+00:00",
+          "date_updated": "2026-06-26T08:00:36.356000+00:00",
+          "display_name": "Gustav Schröder Straßenbau GmbH",
+          "emails": [
+            {
+              "email": "e-mail@gustav-schroeder.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_TX7HNK3xN8lcPxTZFpPEn8sApz8pTe1jmgsRQG5rkY9",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Gustav%20Schr%C3%B6der%20Stra%C3%9Fenbau%20GmbH"
+            }
+          ],
+          "lead_id": "lead_LDXqAgbV242vdrIL6EnipjeRszdVo4kGkCpmpfelNTu",
+          "name": "Gustav Schröder Straßenbau GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49511968960",
+              "phone_formatted": "+49 511 968960",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+495119689630",
+              "phone_formatted": "+49 511 9689630",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_LDXqAgbV242vdrIL6EnipjeRszdVo4kGkCpmpfelNTu",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_LIlvb3xhvw1o2LXPBwBJLmLkW1EymQOz4njaxbX1TkB": {
       "contacts": [
@@ -3021,6 +3142,103 @@
       "name": "",
       "status_label": "Follow Up - Nachricht"
     },
+    "lead_nRuJZ8o2bbP0d0TxUFxZHpakRS1Ulrtz3xEFZS139wF": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:43:54.899000+00:00",
+          "date_updated": "2026-06-19T20:39:44.332000+00:00",
+          "display_name": "Busbetriebe Wismar GmbH",
+          "emails": [
+            {
+              "email": "info@busreisen-wismar.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_JkMvMgPuEoTwoLbnqFkF6NGfR8ASRtDTVE5IzL6qGcE",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Busbetriebe%20Wismar%20GmbH"
+            }
+          ],
+          "lead_id": "lead_nRuJZ8o2bbP0d0TxUFxZHpakRS1Ulrtz3xEFZS139wF",
+          "name": "Busbetriebe Wismar GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493841213968",
+              "phone_formatted": "+49 3841 213968",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+493841790442",
+              "phone_formatted": "+49 3841 790442",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+493841213970",
+              "phone_formatted": "+49 3841 213970",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "manual",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T10:43:55.801000+00:00",
+          "date_updated": "2026-05-01T02:08:04.491000+00:00",
+          "display_name": "BusBetriebe Wismar Regio/Stadt GmbH",
+          "emails": [
+            {
+              "email": "regio-stadt@bbw-wismar.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_HueikN97tcq4zKI6tEi3zaTvePFZlY74uP1cOy5duo4",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=BusBetriebe%20Wismar%20Regio/Stadt%20GmbH"
+            }
+          ],
+          "lead_id": "lead_nRuJZ8o2bbP0d0TxUFxZHpakRS1Ulrtz3xEFZS139wF",
+          "name": "BusBetriebe Wismar Regio/Stadt GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493841213968",
+              "phone_formatted": "+49 3841 213968",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+493841213970",
+              "phone_formatted": "+49 3841 213970",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_nRuJZ8o2bbP0d0TxUFxZHpakRS1Ulrtz3xEFZS139wF",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_nqQtSk7UrraFbXtEEQsLw0v3B4U7ZY2UXwzmvDGML6P": {
       "contacts": [
         {
@@ -3773,6 +3991,90 @@
       "confidence": 50,
       "contact_id": null,
       "contact_name": null,
+      "date_created": "2026-07-20T07:53:01.769000+00:00",
+      "date_updated": "2026-07-20T07:53:01.769000+00:00",
+      "date_won": null,
+      "id": "oppo_FULX4u7vapzQUuIY5oyyle9aWsUA59EYWZr02XZnjBg",
+      "lead_id": "lead_nRuJZ8o2bbP0d0TxUFxZHpakRS1Ulrtz3xEFZS139wF",
+      "lead_name": "Busbetriebe Wismar GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-20T07:52:37.817000+00:00",
+      "date_updated": "2026-07-20T07:52:37.817000+00:00",
+      "date_won": null,
+      "id": "oppo_EfhstytkYtU1AvtNmj5Ia6zJt4bjwGthNGgudIOaDwp",
+      "lead_id": "lead_LDXqAgbV242vdrIL6EnipjeRszdVo4kGkCpmpfelNTu",
+      "lead_name": "Gustav Schröder Straßenbau GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-20T07:52:06.540000+00:00",
+      "date_updated": "2026-07-20T07:52:06.540000+00:00",
+      "date_won": null,
+      "id": "oppo_wSsmuQTKEodTZVcvTyjTd0LasAQrRd2GaweIb9JfdWu",
+      "lead_id": "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4",
+      "lead_name": "Janosh's Fahrschule",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-20T07:50:59.390000+00:00",
+      "date_updated": "2026-07-20T07:50:59.390000+00:00",
+      "date_won": null,
+      "id": "oppo_bAmDoNNE8gMtkq2ZpSmbCGAIq0oAb0GOXmWWKtTF52E",
+      "lead_id": "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE",
+      "lead_name": "Fahrschule Semma",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
       "date_created": "2026-07-15T11:40:46.113000+00:00",
       "date_updated": "2026-07-15T11:40:52.356000+00:00",
       "date_won": null,
@@ -3837,15 +4139,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-13T09:59:41.671000+00:00",
-      "date_updated": "2026-07-13T09:59:41.671000+00:00",
+      "date_updated": "2026-07-20T07:52:56.608000+00:00",
       "date_won": null,
       "id": "oppo_Nun7b0h6I70xZTMAimhwbDXHkbD3ElgKTV9JjBz0LtS",
       "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
       "lead_name": "Mercer Timber Products GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
