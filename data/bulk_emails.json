@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:08:58.016458+00:00",
+  "generated_at": "2026-07-20T21:32:48.721753+00:00",
   "count": 52,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -175,14 +175,264 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-06-25T11:28:37.416000+00:00",
+      "date_updated": "2026-07-20T21:32:15.436000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_p0LaWQciGkK9CSniHqrCYPm6zAJlo1dZZUlWi3G88HE",
+      "n_leads": 1064,
+      "n_leads_processed": 714,
+      "n_objects": 1064,
+      "n_objects_processed": 714,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "related_object_type": "activity.created",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.created",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
+                  },
+                  {
+                    "negate": false,
+                    "related_object_type": "activity.import_update",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.import_update",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
+                  }
+                ],
+                "type": "or"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-07-16T17:16:17.964000+00:00",
+      "date_updated": "2026-07-20T21:32:13.956000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_EPhFRNBN7qc5ap4ibZqClLjPeGEhWa4sfFDzCDvF4qL",
+      "n_leads": 1064,
+      "n_leads_processed": 210,
+      "n_objects": 1064,
+      "n_objects_processed": 210,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "related_object_type": "activity.created",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.created",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
+                  },
+                  {
+                    "negate": false,
+                    "related_object_type": "activity.import_update",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.import_update",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
+                  }
+                ],
+                "type": "or"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-30T11:07:12.727000+00:00",
-      "date_updated": "2026-07-20T20:08:39.309000+00:00",
+      "date_updated": "2026-07-20T21:32:13.851000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
       "n_leads": 2730,
-      "n_leads_processed": 430,
+      "n_leads_processed": 450,
       "n_objects": 2730,
-      "n_objects_processed": 430,
+      "n_objects_processed": 450,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -263,264 +513,14 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-07-16T17:16:17.964000+00:00",
-      "date_updated": "2026-07-20T20:08:37.715000+00:00",
-      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_EPhFRNBN7qc5ap4ibZqClLjPeGEhWa4sfFDzCDvF4qL",
-      "n_leads": 1064,
-      "n_leads_processed": 200,
-      "n_objects": 1064,
-      "n_objects_processed": 200,
-      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-      "query": "",
-      "results_limit": null,
-      "s_query": {
-        "negate": false,
-        "queries": [
-          {
-            "negate": false,
-            "queries": [
-              {
-                "negate": false,
-                "object_type": "lead",
-                "type": "object_type"
-              },
-              {
-                "negate": false,
-                "queries": [
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.created",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.created",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  },
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.import_update",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.import_update",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  }
-                ],
-                "type": "or"
-              }
-            ],
-            "type": "and"
-          },
-          {
-            "negate": false,
-            "related_object_type": "contact",
-            "related_query": {
-              "negate": false,
-              "related_object_type": "contact_email",
-              "related_query": {
-                "condition": {
-                  "type": "boolean",
-                  "value": false
-                },
-                "field": {
-                  "field_name": "is_unsubscribed",
-                  "object_type": "contact_email",
-                  "type": "regular_field"
-                },
-                "negate": false,
-                "type": "field_condition"
-              },
-              "this_object_type": "contact",
-              "type": "has_related"
-            },
-            "this_object_type": "lead",
-            "type": "has_related"
-          }
-        ],
-        "type": "and"
-      },
-      "send_done_email": true,
-      "sender": "David Stein <kontakt@elegancecarsafi.com>",
-      "sort": [],
-      "status": "processing",
-      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
-      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
-    },
-    {
-      "contact_preference": "contact",
-      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-06-25T11:28:37.416000+00:00",
-      "date_updated": "2026-07-20T20:08:37.613000+00:00",
-      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_p0LaWQciGkK9CSniHqrCYPm6zAJlo1dZZUlWi3G88HE",
-      "n_leads": 1064,
-      "n_leads_processed": 704,
-      "n_objects": 1064,
-      "n_objects_processed": 704,
-      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-      "query": "",
-      "results_limit": null,
-      "s_query": {
-        "negate": false,
-        "queries": [
-          {
-            "negate": false,
-            "queries": [
-              {
-                "negate": false,
-                "object_type": "lead",
-                "type": "object_type"
-              },
-              {
-                "negate": false,
-                "queries": [
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.created",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.created",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  },
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.import_update",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_Pt3sVZOOw5jU2ztyYP5KFYu43Gn12BUTmYOeOC9LkE5"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.import_update",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  }
-                ],
-                "type": "or"
-              }
-            ],
-            "type": "and"
-          },
-          {
-            "negate": false,
-            "related_object_type": "contact",
-            "related_query": {
-              "negate": false,
-              "related_object_type": "contact_email",
-              "related_query": {
-                "condition": {
-                  "type": "boolean",
-                  "value": false
-                },
-                "field": {
-                  "field_name": "is_unsubscribed",
-                  "object_type": "contact_email",
-                  "type": "regular_field"
-                },
-                "negate": false,
-                "type": "field_condition"
-              },
-              "this_object_type": "contact",
-              "type": "has_related"
-            },
-            "this_object_type": "lead",
-            "type": "has_related"
-          }
-        ],
-        "type": "and"
-      },
-      "send_done_email": true,
-      "sender": "David Stein <kontakt@elegancecarsafi.com>",
-      "sort": [],
-      "status": "processing",
-      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
-      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
-    },
-    {
-      "contact_preference": "contact",
-      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-23T11:52:48.617000+00:00",
-      "date_updated": "2026-07-20T20:08:37.451000+00:00",
+      "date_updated": "2026-07-20T21:32:13.733000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
       "n_leads": 2902,
-      "n_leads_processed": 1052,
+      "n_leads_processed": 1062,
       "n_objects": 2902,
-      "n_objects_processed": 1052,
+      "n_objects_processed": 1062,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -602,13 +602,13 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-30T12:30:57.889000+00:00",
-      "date_updated": "2026-07-20T20:08:36.354000+00:00",
+      "date_updated": "2026-07-20T21:32:12.473000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_hD3s3IqWvazFxnhjTasQWus6a0pVpZbcsZr8HV9q3kg",
       "n_leads": 1276,
-      "n_leads_processed": 486,
+      "n_leads_processed": 506,
       "n_objects": 1276,
-      "n_objects_processed": 486,
+      "n_objects_processed": 506,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
