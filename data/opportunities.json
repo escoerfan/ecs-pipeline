@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T13:40:43.765478+00:00",
+  "generated_at": "2026-07-21T15:25:50.602303+00:00",
   "count": 71,
   "pipelines": [
     {
@@ -4034,15 +4034,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-20T07:52:06.540000+00:00",
-      "date_updated": "2026-07-20T07:52:06.540000+00:00",
+      "date_updated": "2026-07-21T14:00:37.249000+00:00",
       "date_won": null,
       "id": "oppo_wSsmuQTKEodTZVcvTyjTd0LasAQrRd2GaweIb9JfdWu",
       "lead_id": "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4",
       "lead_name": "Janosh's Fahrschule",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
