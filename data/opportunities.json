@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T10:00:16.792809+00:00",
+  "generated_at": "2026-07-21T11:53:36.781200+00:00",
   "count": 71,
   "pipelines": [
     {
@@ -1785,7 +1785,7 @@
       ],
       "id": "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF",
       "name": "",
-      "status_label": "Fahrzeug zum Verkauf"
+      "status_label": "Follow Up - Nachricht"
     },
     "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5": {
       "contacts": [
@@ -4282,20 +4282,20 @@
       "value_period": "one_time"
     },
     {
-      "confidence": 50,
+      "confidence": 0,
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-07T08:37:25.992000+00:00",
-      "date_updated": "2026-07-07T08:37:25.992000+00:00",
+      "date_updated": "2026-07-21T11:42:17.677000+00:00",
       "date_won": null,
       "id": "oppo_uMznYQh6qYT6jlwA83uuYxuZkloNRPiWISGEwyfGVKe",
       "lead_id": "lead_N7KP55szlSumdt4EeNIBgsSDIVAAoYXIBXxOQIw7cMF",
       "lead_name": "Mein Lieblingsbäcker Fischer UG",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
-      "status_type": "active",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
       "value": 0,
