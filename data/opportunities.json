@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:44:06.678817+00:00",
+  "generated_at": "2026-07-22T23:43:15.293257+00:00",
   "count": 72,
   "pipelines": [
     {
@@ -2970,6 +2970,49 @@
       "id": "lead_kiJ8bWeqaPLDYCvQIGyvDJnjxLI0n13ZVFpWUQbN5NG",
       "name": "Lohmann Transport + Logistik GmbH",
       "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-06T09:03:50.246000+00:00",
+          "date_updated": "2026-05-06T09:03:50.246000+00:00",
+          "display_name": "Comgatus GmbH",
+          "emails": [
+            {
+              "email": "info@comgatus.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_8eRKQBSI4fYrzV59iQcVAvDzblPqIXNUGQSjCf4MgId",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Comgatus%20GmbH"
+            }
+          ],
+          "lead_id": "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4",
+          "name": "Comgatus GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+494060944400",
+              "phone_formatted": "+49 40 60944400",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_kxsOpZOLLbTM6dENbNFax1C2OKP9Cc0a5vcTENJbnW4",
+      "name": "",
+      "status_label": "Nicht Kontaktiert"
     },
     "lead_lEhBH63afLkXU5UHJPwvBodLJ0lL3enH6fQAhlFFx6b": {
       "contacts": [
