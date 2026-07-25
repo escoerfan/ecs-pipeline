@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:04:54.363363+00:00",
+  "generated_at": "2026-07-25T17:15:43.741572+00:00",
   "count": 52,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -176,7 +176,7 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-30T11:07:12.727000+00:00",
-      "date_updated": "2026-07-25T16:03:39.927000+00:00",
+      "date_updated": "2026-07-25T17:14:11.164000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
       "n_leads": 2730,
@@ -264,7 +264,7 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-07-16T17:16:17.964000+00:00",
-      "date_updated": "2026-07-25T16:03:37.530000+00:00",
+      "date_updated": "2026-07-25T17:14:11.113000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_EPhFRNBN7qc5ap4ibZqClLjPeGEhWa4sfFDzCDvF4qL",
       "n_leads": 1064,
@@ -389,7 +389,7 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-30T12:30:57.889000+00:00",
-      "date_updated": "2026-07-25T16:03:35.183000+00:00",
+      "date_updated": "2026-07-25T17:14:06.853000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_hD3s3IqWvazFxnhjTasQWus6a0pVpZbcsZr8HV9q3kg",
       "n_leads": 1276,
@@ -514,7 +514,7 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-23T11:52:48.617000+00:00",
-      "date_updated": "2026-07-25T16:03:31.955000+00:00",
+      "date_updated": "2026-07-25T17:14:03.670000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
       "n_leads": 2902,
