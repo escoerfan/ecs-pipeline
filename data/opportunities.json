@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T07:49:29.853565+00:00",
-  "count": 72,
+  "generated_at": "2026-07-27T11:16:47.821250+00:00",
+  "count": 76,
   "pipelines": [
     {
       "created_by": null,
@@ -602,6 +602,49 @@
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
     },
+    "lead_B9ImuE4LUzixGsL3B6NfuHddopadKJiFfLX2ngXCerN": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T20:41:00.044000+00:00",
+          "date_updated": "2026-06-19T20:41:00.044000+00:00",
+          "display_name": "Wolf + Göhner Busreisen GmbH",
+          "emails": [
+            {
+              "email": "info@wolf-goehner.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_KznVZIPp9a7xcVhnUEGxqoKrtAKU0JVy55eO81XtES9",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Wolf%20%2B%20G%C3%B6hner%20Busreisen%20GmbH"
+            }
+          ],
+          "lead_id": "lead_B9ImuE4LUzixGsL3B6NfuHddopadKJiFfLX2ngXCerN",
+          "name": "Wolf + Göhner Busreisen GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4979049422131",
+              "phone_formatted": "+49 7904 9422131",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_B9ImuE4LUzixGsL3B6NfuHddopadKJiFfLX2ngXCerN",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_CW3aUTjvWmpQeBtRumd7T7Ca6exu2sfkOU7iVhqYNNi": {
       "contacts": [
         {
@@ -739,7 +782,7 @@
       ],
       "id": "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE",
       "name": "Fahrschule Semma",
-      "status_label": "Fahrzeug zum Verkauf"
+      "status_label": "Follow Up - Nachricht"
     },
     "lead_DFzoyeCM300o92VmPSFYxfZwjnxwTniqLev6EsBaWOB": {
       "contacts": [
@@ -2019,6 +2062,84 @@
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
+    "lead_VCgpLm02WEiUfo9AAaCGJXXFDkwmQY62GCWQCQ9TRl3": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:11:54.352000+00:00",
+          "date_updated": "2026-07-15T09:11:54.352000+00:00",
+          "display_name": "Bischoff Touristik Busreisen",
+          "emails": [
+            {
+              "email": "info@bischoff-touristik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_qbY14e4DySES2AodgadonLNAzgW09KqaL5RnLHYN0Xi",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Bischoff%20Touristik%20Busreisen"
+            }
+          ],
+          "lead_id": "lead_VCgpLm02WEiUfo9AAaCGJXXFDkwmQY62GCWQCQ9TRl3",
+          "name": "Bischoff Touristik Busreisen",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+492686980610",
+              "phone_formatted": "+49 2686 980610",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4926861755",
+              "phone_formatted": "+49 2686 1755",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-27T10:02:45.402000+00:00",
+          "date_updated": "2026-07-27T10:02:56.559000+00:00",
+          "display_name": "Uwe Bischoff",
+          "emails": [
+            {
+              "email": "ubischoff@bischoff-touristik.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_ObWtXsCny3JD6JF2IMN6sPyjc5F3ReEwikw81OJJNA6",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Uwe%20Bischoff"
+            }
+          ],
+          "lead_id": "lead_VCgpLm02WEiUfo9AAaCGJXXFDkwmQY62GCWQCQ9TRl3",
+          "name": "Uwe Bischoff",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_VCgpLm02WEiUfo9AAaCGJXXFDkwmQY62GCWQCQ9TRl3",
+      "name": "Bischoff - Touristik GmbH & Co. KG",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_VT0GBAyY06r58OUrQholYvzMe6mT46YbwRkhGc9tgQB": {
       "contacts": [
         {
@@ -2206,6 +2327,84 @@
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
+    "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-23T10:39:04.972000+00:00",
+          "date_updated": "2026-06-23T10:39:04.972000+00:00",
+          "display_name": "Satzke Industrie-, Kesselreinigungs-, Entkalkungs- und Tankschutz GmbH",
+          "emails": [
+            {
+              "email": "info@entkalkungs-service.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_u2ClP4pNiJp4nUlRQDEl3Gg3e7t6KxMiGDY2SVJ2fHk",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Satzke%20Industrie-%2C%20Kesselreinigungs-%2C%20Entkalkungs-%20und%20Tankschutz%20GmbH"
+            }
+          ],
+          "lead_id": "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp",
+          "name": "Satzke Industrie-, Kesselreinigungs-, Entkalkungs- und Tankschutz GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4989574161",
+              "phone_formatted": "+49 89 574161",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4989574165",
+              "phone_formatted": "+49 89 574165",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-27T10:02:23.572000+00:00",
+          "date_updated": "2026-07-27T10:02:23.572000+00:00",
+          "display_name": "Tobias Lenz",
+          "emails": [
+            {
+              "email": "tobilen@web.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_UPooHVytaF1foKOVziSG7ni2gC48v2X8hInZGnHEGmG",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Tobias%20Lenz"
+            }
+          ],
+          "lead_id": "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp",
+          "name": "Tobias Lenz",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho": {
       "contacts": [
         {
@@ -2303,6 +2502,49 @@
       "id": "lead_YnHao2pDU09KhDujpFRn9TOSAd992d1EydpnUJzdfl6",
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_bE2GBgKu4cTpmLU4VfFkMurDdEtWnr6cLcRDTGo0gMA": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T20:38:29.976000+00:00",
+          "date_updated": "2026-06-19T20:38:29.976000+00:00",
+          "display_name": "Krankenbeförderung West GmbH",
+          "emails": [
+            {
+              "email": "info@kb-west.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_tP3g79tO2upusS7Is9ttHp4TVYnqoPkvu8dfDirxrM2",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Krankenbef%C3%B6rderung%20West%20GmbH"
+            }
+          ],
+          "lead_id": "lead_bE2GBgKu4cTpmLU4VfFkMurDdEtWnr6cLcRDTGo0gMA",
+          "name": "Krankenbeförderung West GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4921619908150",
+              "phone_formatted": "+49 2161 9908150",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_bE2GBgKu4cTpmLU4VfFkMurDdEtWnr6cLcRDTGo0gMA",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO": {
       "contacts": [
@@ -4045,6 +4287,90 @@
       "confidence": 50,
       "contact_id": null,
       "contact_name": null,
+      "date_created": "2026-07-27T10:02:52.100000+00:00",
+      "date_updated": "2026-07-27T10:02:52.100000+00:00",
+      "date_won": null,
+      "id": "oppo_USm4d1zN8EX0kYbjgYeikjqC3f9DC3IpNTeOocso30X",
+      "lead_id": "lead_VCgpLm02WEiUfo9AAaCGJXXFDkwmQY62GCWQCQ9TRl3",
+      "lead_name": "Bischoff - Touristik GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-27T10:02:33.157000+00:00",
+      "date_updated": "2026-07-27T10:02:33.157000+00:00",
+      "date_won": null,
+      "id": "oppo_229X7p1BWnEmQvnofjkZ9djCzi7xnbnoBLCRTRobfC3",
+      "lead_id": "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp",
+      "lead_name": "Satzke Industrie-, Kesselreinigungs-, Entkalkungs- und Tankschutz GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-27T09:24:16.906000+00:00",
+      "date_updated": "2026-07-27T09:24:19.273000+00:00",
+      "date_won": null,
+      "id": "oppo_ZsNhiuQ1XXEgtrD3nziZVEC7nTB1foeWtdUDvgZDvKe",
+      "lead_id": "lead_B9ImuE4LUzixGsL3B6NfuHddopadKJiFfLX2ngXCerN",
+      "lead_name": "Wolf + Göhner Busreisen GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-27T08:48:15.164000+00:00",
+      "date_updated": "2026-07-27T08:48:15.164000+00:00",
+      "date_won": null,
+      "id": "oppo_TB7cBGyrUGIDPCp29eEZjuDc9Cy0zZoDhUjDUEa10jd",
+      "lead_id": "lead_bE2GBgKu4cTpmLU4VfFkMurDdEtWnr6cLcRDTGo0gMA",
+      "lead_name": "Krankenbeförderung West GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
       "date_created": "2026-07-22T09:04:25.387000+00:00",
       "date_updated": "2026-07-22T09:04:25.387000+00:00",
       "date_won": null,
@@ -4088,15 +4414,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-20T07:52:37.817000+00:00",
-      "date_updated": "2026-07-20T07:52:37.817000+00:00",
+      "date_updated": "2026-07-27T10:01:40.854000+00:00",
       "date_won": null,
       "id": "oppo_EfhstytkYtU1AvtNmj5Ia6zJt4bjwGthNGgudIOaDwp",
       "lead_id": "lead_LDXqAgbV242vdrIL6EnipjeRszdVo4kGkCpmpfelNTu",
       "lead_name": "Gustav Schröder Straßenbau GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
@@ -4126,20 +4452,20 @@
       "value_period": "one_time"
     },
     {
-      "confidence": 50,
+      "confidence": 0,
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-20T07:50:59.390000+00:00",
-      "date_updated": "2026-07-20T07:50:59.390000+00:00",
+      "date_updated": "2026-07-27T08:52:49.594000+00:00",
       "date_won": null,
       "id": "oppo_bAmDoNNE8gMtkq2ZpSmbCGAIq0oAb0GOXmWWKtTF52E",
       "lead_id": "lead_D98bfHMIgkIqm9ytt5pI4BKrqD1pN31P3mf0yaN2ivE",
       "lead_name": "Fahrschule Semma",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
-      "status_type": "active",
+      "status_id": "stat_oKHyr4rEaUqKkdfQJNA5cE1Gjl62LlLRiPOQdhVwXek",
+      "status_label": "Verpasst",
+      "status_type": "lost",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
       "value": 0,
@@ -4340,15 +4666,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-07T08:37:37.059000+00:00",
-      "date_updated": "2026-07-07T08:37:37.059000+00:00",
+      "date_updated": "2026-07-27T08:57:00.249000+00:00",
       "date_won": null,
       "id": "oppo_RFBo9eYO9erchypAHLbK8pXvkWQpxSyAuce1BP6AVHK",
       "lead_id": "lead_vKmCuNPEj884g7jKIINVMTS19qmkV1koMdkvg0nrKbO",
       "lead_name": "g?hörig GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
