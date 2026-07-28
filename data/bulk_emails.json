@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:05:10.500933+00:00",
+  "generated_at": "2026-07-28T23:15:39.116143+00:00",
   "count": 52,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -175,14 +175,14 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-06-30T11:07:12.727000+00:00",
-      "date_updated": "2026-07-28T22:04:19.235000+00:00",
+      "date_created": "2026-07-16T17:16:32.714000+00:00",
+      "date_updated": "2026-07-28T23:15:15.668000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
-      "n_leads": 2730,
-      "n_leads_processed": 1280,
-      "n_objects": 2730,
-      "n_objects_processed": 1280,
+      "id": "bulkemail_Su185q99rABBTHXIcsKvNi6QgYQxx8lisZqgfgKnk3R",
+      "n_leads": 721,
+      "n_leads_processed": 110,
+      "n_objects": 721,
+      "n_objects_processed": 110,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -202,25 +202,62 @@
                 "queries": [
                   {
                     "negate": false,
-                    "queries": [
-                      {
-                        "condition": {
-                          "mode": "beginning_of_words",
-                          "type": "text",
-                          "value": " Bau von Straßen"
-                        },
-                        "field": {
-                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
-                          "type": "custom_field"
-                        },
-                        "negate": false,
-                        "type": "field_condition"
-                      }
-                    ],
-                    "type": "and"
+                    "related_object_type": "activity.created",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_wjGW8jL2SqIQBteZnI2fOwvVMRMo43Y8b8uFzZMyPSt"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.created",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
+                  },
+                  {
+                    "negate": false,
+                    "related_object_type": "activity.import_update",
+                    "related_query": {
+                      "negate": false,
+                      "queries": [
+                        {
+                          "condition": {
+                            "object_ids": [
+                              "impo_wjGW8jL2SqIQBteZnI2fOwvVMRMo43Y8b8uFzZMyPSt"
+                            ],
+                            "reference_type": "import",
+                            "type": "reference"
+                          },
+                          "field": {
+                            "field_name": "import_id",
+                            "object_type": "activity.import_update",
+                            "type": "regular_field"
+                          },
+                          "negate": false,
+                          "type": "field_condition"
+                        }
+                      ],
+                      "type": "and"
+                    },
+                    "this_object_type": "lead",
+                    "type": "has_related"
                   }
                 ],
-                "type": "and"
+                "type": "or"
               }
             ],
             "type": "and"
@@ -257,20 +294,20 @@
       "sender": "David Stein <kontakt@elegancecarsafi.com>",
       "sort": [],
       "status": "processing",
-      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
+      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
       "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
     },
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-30T12:30:57.889000+00:00",
-      "date_updated": "2026-07-28T22:04:09.970000+00:00",
+      "date_updated": "2026-07-28T23:15:15.535000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_hD3s3IqWvazFxnhjTasQWus6a0pVpZbcsZr8HV9q3kg",
       "n_leads": 1276,
-      "n_leads_processed": 1126,
+      "n_leads_processed": 1136,
       "n_objects": 1276,
-      "n_objects_processed": 1126,
+      "n_objects_processed": 1136,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -389,13 +426,13 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-23T11:52:48.617000+00:00",
-      "date_updated": "2026-07-28T22:04:04.498000+00:00",
+      "date_updated": "2026-07-28T23:15:14.106000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
       "n_leads": 2902,
-      "n_leads_processed": 1832,
+      "n_leads_processed": 1842,
       "n_objects": 2902,
-      "n_objects_processed": 1832,
+      "n_objects_processed": 1842,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -476,14 +513,14 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-07-16T17:16:32.714000+00:00",
-      "date_updated": "2026-07-28T22:03:57.629000+00:00",
+      "date_created": "2026-06-30T11:07:12.727000+00:00",
+      "date_updated": "2026-07-28T23:15:14.085000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_Su185q99rABBTHXIcsKvNi6QgYQxx8lisZqgfgKnk3R",
-      "n_leads": 721,
-      "n_leads_processed": 100,
-      "n_objects": 721,
-      "n_objects_processed": 100,
+      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
+      "n_leads": 2730,
+      "n_leads_processed": 1290,
+      "n_objects": 2730,
+      "n_objects_processed": 1290,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
@@ -503,62 +540,25 @@
                 "queries": [
                   {
                     "negate": false,
-                    "related_object_type": "activity.created",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_wjGW8jL2SqIQBteZnI2fOwvVMRMo43Y8b8uFzZMyPSt"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.created",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
-                  },
-                  {
-                    "negate": false,
-                    "related_object_type": "activity.import_update",
-                    "related_query": {
-                      "negate": false,
-                      "queries": [
-                        {
-                          "condition": {
-                            "object_ids": [
-                              "impo_wjGW8jL2SqIQBteZnI2fOwvVMRMo43Y8b8uFzZMyPSt"
-                            ],
-                            "reference_type": "import",
-                            "type": "reference"
-                          },
-                          "field": {
-                            "field_name": "import_id",
-                            "object_type": "activity.import_update",
-                            "type": "regular_field"
-                          },
-                          "negate": false,
-                          "type": "field_condition"
-                        }
-                      ],
-                      "type": "and"
-                    },
-                    "this_object_type": "lead",
-                    "type": "has_related"
+                    "queries": [
+                      {
+                        "condition": {
+                          "mode": "beginning_of_words",
+                          "type": "text",
+                          "value": " Bau von Straßen"
+                        },
+                        "field": {
+                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
+                          "type": "custom_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
                   }
                 ],
-                "type": "or"
+                "type": "and"
               }
             ],
             "type": "and"
@@ -595,7 +595,7 @@
       "sender": "David Stein <kontakt@elegancecarsafi.com>",
       "sort": [],
       "status": "processing",
-      "template_id": "tmpl_9qxczs2uQA6X0B3U1I2LqlKm4mtjAWA14QxsQyLtHxj",
+      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
       "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
     },
     {
