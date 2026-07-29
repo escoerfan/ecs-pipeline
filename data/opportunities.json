@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T04:30:35.856919+00:00",
-  "count": 76,
+  "generated_at": "2026-07-29T07:31:09.348853+00:00",
+  "count": 80,
   "pipelines": [
     {
       "created_by": null,
@@ -138,6 +138,55 @@
       "id": "lead_2jKqaSXEQWcHS7CaZ7RLr7qYBe2eQuuaXBYpaV7I5Z0",
       "name": "",
       "status_label": "Partner"
+    },
+    "lead_2pwI7dEurWxDYITjLRvgbe5WQDdxpwSNkth7TGp1ieg": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:12:35.519000+00:00",
+          "date_updated": "2026-07-15T09:12:35.519000+00:00",
+          "display_name": "René Reisen e.K.",
+          "emails": [
+            {
+              "email": "info@rene-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_1UtdDqRGqPFmOxANxoHahyl5ZY9NmqM0GMBGx3wCTAo",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Ren%C3%A9%20Reisen%20e.K."
+            }
+          ],
+          "lead_id": "lead_2pwI7dEurWxDYITjLRvgbe5WQDdxpwSNkth7TGp1ieg",
+          "name": "René Reisen e.K.",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4978112786610",
+              "phone_formatted": "+49 781 12786610",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4978112786613",
+              "phone_formatted": "+49 781 12786613",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_2pwI7dEurWxDYITjLRvgbe5WQDdxpwSNkth7TGp1ieg",
+      "name": "René Reisen e.K.",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_41wU1oVgg80Vvm9qj9eiGUDoMOrUg2vFmMKNK4NDXQD": {
       "contacts": [
@@ -552,6 +601,55 @@
       "id": "lead_92fcvYwRnOKiwrsZSBsQreGTOqM406mQHSOloxBopgB",
       "name": "",
       "status_label": "Im Kontakt"
+    },
+    "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T20:40:49.714000+00:00",
+          "date_updated": "2026-06-19T20:40:49.714000+00:00",
+          "display_name": "Süsser Reisen & Transport GmbH",
+          "emails": [
+            {
+              "email": "info@suesser-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_xoeanhfzjpYBHp8TEabNwiygT9rhaew7HeBJ6GNiC9s",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=S%C3%BCsser%20Reisen%20%26%20Transport%20GmbH"
+            }
+          ],
+          "lead_id": "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK",
+          "name": "Süsser Reisen & Transport GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+497056928110",
+              "phone_formatted": "+49 7056 928110",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+497056928199",
+              "phone_formatted": "+49 7056 928199",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz": {
       "contacts": [
@@ -2882,6 +2980,49 @@
       "name": "Omnibus Fichter Reiseservice GmbH (O und R Reiservice)",
       "status_label": "Partner"
     },
+    "lead_enT5ItbyYhcV4khFZwRjLQUqZldw2VjEwsAJW4ukpNt": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:12:52.330000+00:00",
+          "date_updated": "2026-07-15T09:12:52.330000+00:00",
+          "display_name": "Kempenicher Reisedienst",
+          "emails": [
+            {
+              "email": "info@kempenicher-reisedienst.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_9cdSbZjxGaDbmUsAzJwlrAv5jstafn7PWzuPjI9ixWG",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Kempenicher%20Reisedienst"
+            }
+          ],
+          "lead_id": "lead_enT5ItbyYhcV4khFZwRjLQUqZldw2VjEwsAJW4ukpNt",
+          "name": "Kempenicher Reisedienst",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4926559627710",
+              "phone_formatted": "+49 2655 9627710",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_enT5ItbyYhcV4khFZwRjLQUqZldw2VjEwsAJW4ukpNt",
+      "name": "Kempenicher Reisedienst",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_ggXVIpuXItnqeYbinAE1GmOAgJVc9RFnwD8PwWAqMJi": {
       "contacts": [
         {
@@ -3910,6 +4051,55 @@
       "name": "",
       "status_label": "Im Kontakt"
     },
+    "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-30T11:19:46.816000+00:00",
+          "date_updated": "2026-06-30T11:19:46.816000+00:00",
+          "display_name": "Betonwerk Prößl GmbH",
+          "emails": [
+            {
+              "email": "info@betonwerk-proessl.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_UCbkwmJcNgDpYj6wtF6jEXqrByumw8VdgDTq35pO8a1",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Betonwerk%20Pr%C3%B6%C3%9Fl%20GmbH"
+            }
+          ],
+          "lead_id": "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE",
+          "name": "Betonwerk Prößl GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49961470397",
+              "phone_formatted": "+49 961 470397",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4996147039750",
+              "phone_formatted": "+49 961 47039750",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB": {
       "contacts": [
         {
@@ -4283,6 +4473,90 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-29T06:44:24.286000+00:00",
+      "date_updated": "2026-07-29T06:44:24.286000+00:00",
+      "date_won": null,
+      "id": "oppo_x8CgPm2Py5fgvL9VTIBVJIYSNk66pbKjrGDtLNDTfMl",
+      "lead_id": "lead_2pwI7dEurWxDYITjLRvgbe5WQDdxpwSNkth7TGp1ieg",
+      "lead_name": "René Reisen e.K.",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-29T06:44:14.297000+00:00",
+      "date_updated": "2026-07-29T06:44:14.297000+00:00",
+      "date_won": null,
+      "id": "oppo_05YGx2mnz5ValNXuCZPMAeQRrgiU6VIOp6qVBPCJ62R",
+      "lead_id": "lead_enT5ItbyYhcV4khFZwRjLQUqZldw2VjEwsAJW4ukpNt",
+      "lead_name": "Kempenicher Reisedienst",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-29T06:44:05.647000+00:00",
+      "date_updated": "2026-07-29T06:44:05.647000+00:00",
+      "date_won": null,
+      "id": "oppo_yfGfsoiOv3UZ2Nttso9rGD5B4IXPy3Of16PPLS02M9o",
+      "lead_id": "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK",
+      "lead_name": "Süsser Reisen & Transport GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-29T06:43:25.271000+00:00",
+      "date_updated": "2026-07-29T06:43:25.271000+00:00",
+      "date_won": null,
+      "id": "oppo_Miw2xXTzjX9pa3IWY42Dn7yWczAwQHTpMyVrtyB9fdS",
+      "lead_id": "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE",
+      "lead_name": "Betonwerk Prößl GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
