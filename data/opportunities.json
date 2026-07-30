@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:32:53.512802+00:00",
+  "generated_at": "2026-07-30T13:14:24.530532+00:00",
   "count": 82,
   "pipelines": [
     {
@@ -741,7 +741,7 @@
       ],
       "id": "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK",
       "name": "",
-      "status_label": "Fahrzeug zum Verkauf"
+      "status_label": "Follow Up - Fahrzeug"
     },
     "lead_B2aOYg7c7Hu4CvGIrRArGTboQBFzBi9JXcOoWc55qiz": {
       "contacts": [
@@ -4654,15 +4654,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-29T06:44:05.647000+00:00",
-      "date_updated": "2026-07-29T06:44:05.647000+00:00",
+      "date_updated": "2026-07-30T12:01:27.598000+00:00",
       "date_won": null,
       "id": "oppo_yfGfsoiOv3UZ2Nttso9rGD5B4IXPy3Of16PPLS02M9o",
       "lead_id": "lead_A8dhp62sUtkhcQDQePdCDukW3orqyauv37Wc4BhybQK",
       "lead_name": "Süsser Reisen & Transport GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
