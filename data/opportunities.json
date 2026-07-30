@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:10:08.106390+00:00",
-  "count": 80,
+  "generated_at": "2026-07-30T09:40:57.028917+00:00",
+  "count": 82,
   "pipelines": [
     {
       "created_by": null,
@@ -35,6 +35,49 @@
     }
   ],
   "leads": {
+    "lead_08c4ub8nH49uSdZYEm3JdjVv7tJQPPmXuDyqvfgsS3X": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-26T08:05:36.235000+00:00",
+          "date_updated": "2026-06-26T08:05:36.235000+00:00",
+          "display_name": "Meisterbetrieb Patrick Ott GmbH",
+          "emails": [
+            {
+              "email": "patrickott@gmx.net",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_Zc16PsjDU7PZwPKa6NsWj1eNx1CDYU4KcFFqYPT5PgU",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Meisterbetrieb%20Patrick%20Ott%20GmbH"
+            }
+          ],
+          "lead_id": "lead_08c4ub8nH49uSdZYEm3JdjVv7tJQPPmXuDyqvfgsS3X",
+          "name": "Meisterbetrieb Patrick Ott GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49640461915",
+              "phone_formatted": "+49 6404 61915",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_08c4ub8nH49uSdZYEm3JdjVv7tJQPPmXuDyqvfgsS3X",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_1P9vSrItKS95kXEGSJFuVEf25lhtm575ZMSXFTRrdOk": {
       "contacts": [
         {
@@ -285,6 +328,55 @@
       "id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_6r9hDWfAVjq1uYEnJcLz2oO2p75wsVt5miOln30niJ2": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:12:50.530000+00:00",
+          "date_updated": "2026-07-15T09:12:50.530000+00:00",
+          "display_name": "Effen&Werner Busunternehmen",
+          "emails": [
+            {
+              "email": "nicole-effen@t-online.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_CWl7bhRby1fBiMaYSctt0kT1aIo7rg9C0w4o2dth8Jv",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Effen%26Werner%20Busunternehmen"
+            }
+          ],
+          "lead_id": "lead_6r9hDWfAVjq1uYEnJcLz2oO2p75wsVt5miOln30niJ2",
+          "name": "Effen&Werner Busunternehmen",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491637360697",
+              "phone_formatted": "+49 163 7360697",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49225165150",
+              "phone_formatted": "+49 2251 65150",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_6r9hDWfAVjq1uYEnJcLz2oO2p75wsVt5miOln30niJ2",
+      "name": "Effen&Werner Busunternehmen",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_7H8w5SI1Gu1uUktBKQFKIIufUihE7x6imewsOYTE5R4": {
       "contacts": [
@@ -4473,6 +4565,48 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-30T09:06:43.582000+00:00",
+      "date_updated": "2026-07-30T09:06:43.582000+00:00",
+      "date_won": null,
+      "id": "oppo_uHsdd2Cahe5nwcTZKPNEeC8dnxJ8FVt5NfM6gMKit3w",
+      "lead_id": "lead_6r9hDWfAVjq1uYEnJcLz2oO2p75wsVt5miOln30niJ2",
+      "lead_name": "Effen&Werner Busunternehmen",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-30T09:04:00.544000+00:00",
+      "date_updated": "2026-07-30T09:04:00.544000+00:00",
+      "date_won": null,
+      "id": "oppo_4ktdZf36fNzohm2uwpY8JuPmKzGoWuUbNPlbua38d5u",
+      "lead_id": "lead_08c4ub8nH49uSdZYEm3JdjVv7tJQPPmXuDyqvfgsS3X",
+      "lead_name": "Meisterbetrieb Patrick Ott GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
