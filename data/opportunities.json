@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T21:30:44.219304+00:00",
-  "count": 82,
+  "generated_at": "2026-07-30T22:45:57.228298+00:00",
+  "count": 83,
   "pipelines": [
     {
       "created_by": null,
@@ -2736,6 +2736,85 @@
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
+    "lead_cGCzelpnwU1hwmdtKbtOy6wdoT65VYKsM5plkFcYpaj": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-23T10:36:44.571000+00:00",
+          "date_updated": "2026-06-23T10:36:44.571000+00:00",
+          "display_name": "Facility Service Weikamm GmbH",
+          "emails": [
+            {
+              "email": "info@galabau-weikamm.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_N63B3cPtjTMPJvyQc7rKhbbLMGkwfgMkLETEFNjLr2k",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Facility%20Service%20Weikamm%20GmbH"
+            }
+          ],
+          "lead_id": "lead_cGCzelpnwU1hwmdtKbtOy6wdoT65VYKsM5plkFcYpaj",
+          "name": "Facility Service Weikamm GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49406969430",
+              "phone_formatted": "+49 40 6969430",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+494069694343",
+              "phone_formatted": "+49 40 69694343",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-30T22:44:42.529000+00:00",
+          "date_updated": "2026-07-30T22:44:42.529000+00:00",
+          "display_name": "Herr Giese",
+          "emails": [],
+          "id": "cont_eY9YP2BeLpsURN9WPjNCt4BmDxFClQ5fBgP3vr4Eqt2",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Herr%20Giese"
+            }
+          ],
+          "lead_id": "lead_cGCzelpnwU1hwmdtKbtOy6wdoT65VYKsM5plkFcYpaj",
+          "name": "Herr Giese",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+491636969408",
+              "phone_formatted": "+49 163 6969408",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_cGCzelpnwU1hwmdtKbtOy6wdoT65VYKsM5plkFcYpaj",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_cUNJoNqRdabhu4BErij9uW9RIqjGfe6QuF94ji3iBFO": {
       "contacts": [
         {
@@ -4565,6 +4644,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 100,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-07-30T22:44:05.824000+00:00",
+      "date_updated": "2026-07-30T22:44:08.697000+00:00",
+      "date_won": "2026-07-31",
+      "id": "oppo_AO31myNO5B5sopcjDFHp6gv54LBFoVsxkRZEBdNaY3t",
+      "lead_id": "lead_cGCzelpnwU1hwmdtKbtOy6wdoT65VYKsM5plkFcYpaj",
+      "lead_name": "Facility Service Weikamm GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
