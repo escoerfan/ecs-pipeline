@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:10:30.178131+00:00",
+  "generated_at": "2026-07-30T15:23:42.415449+00:00",
   "count": 52,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -175,96 +175,8 @@
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "date_created": "2026-06-30T11:07:12.727000+00:00",
-      "date_updated": "2026-07-30T13:09:20.813000+00:00",
-      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
-      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
-      "n_leads": 2730,
-      "n_leads_processed": 1560,
-      "n_objects": 2730,
-      "n_objects_processed": 1560,
-      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-      "query": "",
-      "results_limit": null,
-      "s_query": {
-        "negate": false,
-        "queries": [
-          {
-            "negate": false,
-            "queries": [
-              {
-                "negate": false,
-                "object_type": "lead",
-                "type": "object_type"
-              },
-              {
-                "negate": false,
-                "queries": [
-                  {
-                    "negate": false,
-                    "queries": [
-                      {
-                        "condition": {
-                          "mode": "beginning_of_words",
-                          "type": "text",
-                          "value": " Bau von Straßen"
-                        },
-                        "field": {
-                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
-                          "type": "custom_field"
-                        },
-                        "negate": false,
-                        "type": "field_condition"
-                      }
-                    ],
-                    "type": "and"
-                  }
-                ],
-                "type": "and"
-              }
-            ],
-            "type": "and"
-          },
-          {
-            "negate": false,
-            "related_object_type": "contact",
-            "related_query": {
-              "negate": false,
-              "related_object_type": "contact_email",
-              "related_query": {
-                "condition": {
-                  "type": "boolean",
-                  "value": false
-                },
-                "field": {
-                  "field_name": "is_unsubscribed",
-                  "object_type": "contact_email",
-                  "type": "regular_field"
-                },
-                "negate": false,
-                "type": "field_condition"
-              },
-              "this_object_type": "contact",
-              "type": "has_related"
-            },
-            "this_object_type": "lead",
-            "type": "has_related"
-          }
-        ],
-        "type": "and"
-      },
-      "send_done_email": true,
-      "sender": "David Stein <kontakt@elegancecarsafi.com>",
-      "sort": [],
-      "status": "processing",
-      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
-      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
-    },
-    {
-      "contact_preference": "contact",
-      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-06-23T11:52:48.617000+00:00",
-      "date_updated": "2026-07-30T13:09:18.255000+00:00",
+      "date_updated": "2026-07-30T15:22:28.931000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_F1GApknHMhuQDkXOpcF8WdkxGmBXO9fEP106KZrvHzC",
       "n_leads": 2902,
@@ -346,6 +258,94 @@
       "sort": [],
       "status": "processing",
       "template_id": "tmpl_eE6891w44ndF7eUh9rGwmpCdfuNaRhqklZMfE6yXdnm",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-06-30T11:07:12.727000+00:00",
+      "date_updated": "2026-07-30T15:22:27.626000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_HBkNVWdM9nMfIE3KhXlMzyopuK3hvGmlnpHs7nr0ry6",
+      "n_leads": 2730,
+      "n_leads_processed": 1560,
+      "n_objects": 2730,
+      "n_objects_processed": 1560,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "mode": "beginning_of_words",
+                          "type": "text",
+                          "value": " Bau von Straßen"
+                        },
+                        "field": {
+                          "custom_field_id": "cf_4CBL8Let4alLlhQlXJIrBSD0E01umXpJpfJsIB8iNg2",
+                          "type": "custom_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  }
+                ],
+                "type": "and"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_rdLqlccSTSZQodj9lKZYWtn0hdTJawscFLXqGNGzSjV",
       "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
     },
     {
