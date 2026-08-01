@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:54:08.279575+00:00",
+  "generated_at": "2026-08-01T20:46:52.524332+00:00",
   "count": 83,
   "pipelines": [
     {
@@ -4221,55 +4221,6 @@
       "id": "lead_pWXo6OKAeV3glSRaTJFNDhyEnsmmpgIssSbekfT5PNN",
       "name": "",
       "status_label": "Im Kontakt"
-    },
-    "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE": {
-      "contacts": [
-        {
-          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "date_created": "2026-06-30T11:19:46.816000+00:00",
-          "date_updated": "2026-06-30T11:19:46.816000+00:00",
-          "display_name": "Betonwerk Prößl GmbH",
-          "emails": [
-            {
-              "email": "info@betonwerk-proessl.de",
-              "is_unsubscribed": false,
-              "type": "office"
-            }
-          ],
-          "id": "cont_UCbkwmJcNgDpYj6wtF6jEXqrByumw8VdgDTq35pO8a1",
-          "integration_links": [
-            {
-              "name": "LinkedIn Search",
-              "url": "https://www.linkedin.com/search/results/people/?keywords=Betonwerk%20Pr%C3%B6%C3%9Fl%20GmbH"
-            }
-          ],
-          "lead_id": "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE",
-          "name": "Betonwerk Prößl GmbH",
-          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-          "phones": [
-            {
-              "country": "DE",
-              "phone": "+49961470397",
-              "phone_formatted": "+49 961 470397",
-              "type": "office"
-            },
-            {
-              "country": "DE",
-              "phone": "+4996147039750",
-              "phone_formatted": "+49 961 47039750",
-              "type": "fax"
-            }
-          ],
-          "timezone": "Europe/Berlin",
-          "timezone_source": "inferred_from_phone_number",
-          "title": null,
-          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "urls": []
-        }
-      ],
-      "id": "lead_rSPTGBCDCiavvrmwHkH7fOEQFztuxJpbSbHIW4R8nGE",
-      "name": "",
-      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_vDwgurRZ8UMxTT4hhIxRWBgFQfTf6Y8hZGIJLmZA4dB": {
       "contacts": [
