@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T09:58:10.913437+00:00",
-  "count": 83,
+  "generated_at": "2026-08-07T10:56:17.360434+00:00",
+  "count": 84,
   "pipelines": [
     {
       "created_by": null,
@@ -461,7 +461,7 @@
       ],
       "id": "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH",
       "name": "",
-      "status_label": "Fahrzeug zum Verkauf"
+      "status_label": "Partner"
     },
     "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9": {
       "contacts": [
@@ -544,6 +544,49 @@
         }
       ],
       "id": "lead_8DN7l2WFNARBovpADHdg0yiMcUqMDSVoUePePVGUlE9",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_8GSjbyHFBmgiCmFWNbAPHrBMaYHvN1Zgx8v3cAQDvkA": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T20:40:25.302000+00:00",
+          "date_updated": "2026-06-19T20:40:25.302000+00:00",
+          "display_name": "Fahrwerk Gempf zu Rotter GmbH",
+          "emails": [
+            {
+              "email": "office@fahrwerk-gzr.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_7NHLSc3iCyGSOAoE6D7PvKiJuKVKrOuXaSVBouW8Wsq",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Fahrwerk%20Gempf%20zu%20Rotter%20GmbH"
+            }
+          ],
+          "lead_id": "lead_8GSjbyHFBmgiCmFWNbAPHrBMaYHvN1Zgx8v3cAQDvkA",
+          "name": "Fahrwerk Gempf zu Rotter GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4930220127590",
+              "phone_formatted": "+49 30 220127590",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_8GSjbyHFBmgiCmFWNbAPHrBMaYHvN1Zgx8v3cAQDvkA",
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
@@ -1305,78 +1348,6 @@
         }
       ],
       "id": "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx",
-      "name": "",
-      "status_label": "Fahrzeug zum Verkauf"
-    },
-    "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve": {
-      "contacts": [
-        {
-          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "date_created": "2024-09-18T08:40:05.535000+00:00",
-          "date_updated": "2024-09-18T08:40:05.535000+00:00",
-          "display_name": "Mercer Timber Products GmbH",
-          "emails": [
-            {
-              "email": "info@mercerint.com",
-              "is_unsubscribed": false,
-              "type": "office"
-            }
-          ],
-          "id": "cont_chaY8A4f8ZcQuIAK6Ptsba3FgxbGcrYHW6YnmDYBhHh",
-          "integration_links": [
-            {
-              "name": "LinkedIn Search",
-              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Timber%20Products%20GmbH"
-            }
-          ],
-          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
-          "name": "Mercer Timber Products GmbH",
-          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-          "phones": [
-            {
-              "country": "DE",
-              "phone": "+49303064710",
-              "phone_formatted": "+49 30 3064710",
-              "type": "office"
-            }
-          ],
-          "timezone": "Europe/Berlin",
-          "timezone_source": "inferred_from_phone_number",
-          "title": "",
-          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "urls": []
-        },
-        {
-          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "date_created": "2026-07-13T09:59:28.190000+00:00",
-          "date_updated": "2026-07-13T09:59:28.190000+00:00",
-          "display_name": "Mercer Holz, Fuhrparkverkauf",
-          "emails": [
-            {
-              "email": "fuhrparkverkauf@mercerint.com",
-              "is_unsubscribed": false,
-              "type": "office"
-            }
-          ],
-          "id": "cont_F2zA0h4DuH4s61uiSL1epXpk2eTXTdR5cbh4xi1ZqF0",
-          "integration_links": [
-            {
-              "name": "LinkedIn Search",
-              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Holz%2C%20Fuhrparkverkauf"
-            }
-          ],
-          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
-          "name": "Mercer Holz, Fuhrparkverkauf",
-          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
-          "phones": [],
-          "timezone": null,
-          "timezone_source": null,
-          "title": null,
-          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-          "urls": []
-        }
-      ],
-      "id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
@@ -2154,6 +2125,85 @@
       "id": "lead_RCcaJylTSFjV8yL81KuUjVQaX4aSfTdeB5woI9vWCjh",
       "name": "",
       "status_label": "Follow Up - Nachricht"
+    },
+    "lead_S6vNBsvpE96zvFIQIJZZdRfF6vVgGqZezFpHu4eCt0x": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-25T13:48:45.863000+00:00",
+          "date_updated": "2024-10-22T08:44:43.645000+00:00",
+          "display_name": "Uwe Schnabel",
+          "emails": [],
+          "id": "cont_tzY11eqQ0xPNFHArHRGkH8Hxaapt8TyRQWAgSHc3x53",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Uwe%20Schnabel"
+            }
+          ],
+          "lead_id": "lead_S6vNBsvpE96zvFIQIJZZdRfF6vVgGqZezFpHu4eCt0x",
+          "name": "Uwe Schnabel",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4915256657505",
+              "phone_formatted": "+49 1525 6657505",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-08-27T11:16:36.604000+00:00",
+          "date_updated": "2024-10-22T08:44:43.650000+00:00",
+          "display_name": "Schnabel-Touristik GmbH",
+          "emails": [
+            {
+              "email": "info@schnabu.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_eTiCsyZIXGROMlOEEazQY8NEB5u3r1Wg4Vth01Ttoq3",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Schnabel-Touristik%20GmbH"
+            }
+          ],
+          "lead_id": "lead_S6vNBsvpE96zvFIQIJZZdRfF6vVgGqZezFpHu4eCt0x",
+          "name": "Schnabel-Touristik GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+499567377",
+              "phone_formatted": "+49 9567 377",
+              "type": "direct"
+            },
+            {
+              "country": "DE",
+              "phone": "+499567343",
+              "phone_formatted": "+49 9567 343",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_S6vNBsvpE96zvFIQIJZZdRfF6vVgGqZezFpHu4eCt0x",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_UmJwq8xDZm0ZHh6uYdnxHso0w0Q42EO4CivqYcakuoZ": {
       "contacts": [
@@ -4645,6 +4695,48 @@
   },
   "opportunities": [
     {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-07T10:23:36.842000+00:00",
+      "date_updated": "2026-08-07T10:23:36.842000+00:00",
+      "date_won": null,
+      "id": "oppo_3XGoVGmIsQyd8jHtU1EXjbGW28GJrSLHpjd1tS85Wg9",
+      "lead_id": "lead_S6vNBsvpE96zvFIQIJZZdRfF6vVgGqZezFpHu4eCt0x",
+      "lead_name": "Uwe Schnabel",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-07T10:08:26.287000+00:00",
+      "date_updated": "2026-08-07T10:08:26.287000+00:00",
+      "date_won": null,
+      "id": "oppo_NhVY60mVDs9cx5Vm8RqZyCWB1Lh8qDGUbUjaaK89nj2",
+      "lead_id": "lead_8GSjbyHFBmgiCmFWNbAPHrBMaYHvN1Zgx8v3cAQDvkA",
+      "lead_name": "Fahrwerk Gempf zu Rotter GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
       "confidence": 100,
       "contact_id": null,
       "contact_name": null,
@@ -5047,27 +5139,6 @@
       "confidence": 50,
       "contact_id": null,
       "contact_name": null,
-      "date_created": "2026-07-13T09:59:41.671000+00:00",
-      "date_updated": "2026-07-20T07:52:56.608000+00:00",
-      "date_won": null,
-      "id": "oppo_Nun7b0h6I70xZTMAimhwbDXHkbD3ElgKTV9JjBz0LtS",
-      "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
-      "lead_name": "Mercer Timber Products GmbH",
-      "note": null,
-      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
-      "status_label": "Auf Follow Up",
-      "status_type": "active",
-      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
-      "user_name": "David Stein",
-      "value": 0,
-      "value_formatted": "",
-      "value_period": "one_time"
-    },
-    {
-      "confidence": 50,
-      "contact_id": null,
-      "contact_name": null,
       "date_created": "2026-07-13T09:59:17.331000+00:00",
       "date_updated": "2026-07-13T09:59:17.331000+00:00",
       "date_won": null,
@@ -5128,20 +5199,20 @@
       "value_period": "one_time"
     },
     {
-      "confidence": 50,
+      "confidence": 100,
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-09T09:08:02.239000+00:00",
-      "date_updated": "2026-07-09T09:08:02.239000+00:00",
-      "date_won": null,
+      "date_updated": "2026-08-07T10:21:07.114000+00:00",
+      "date_won": "2026-08-07",
       "id": "oppo_pawae8ZwYfb5GaFoLEAjj3OERZOSIKQzbfaMLZoLlhr",
       "lead_id": "lead_80nfryvzi1BMCAjgoWMkwlLUEfwKNic1oLrdo81i8fH",
       "lead_name": "Müllbehälter-Reinigungs-Service Storch GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
-      "status_type": "active",
+      "status_id": "stat_wOqNnpcnpYPYrBTu1pzUEJS4SHWOngiQgFqV2oQNhd9",
+      "status_label": "Kauf abgeschlossen",
+      "status_type": "won",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
       "value": 0,
@@ -5237,15 +5308,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-06T08:42:15.020000+00:00",
-      "date_updated": "2026-07-06T08:42:15.020000+00:00",
+      "date_updated": "2026-08-07T10:22:42.583000+00:00",
       "date_won": null,
       "id": "oppo_E1ahON2iJMp8p4a1FSwbfPzMILdOBMnERNLuZ8YExEL",
       "lead_id": "lead_xjMsLXQs9v0IHPxcF11j8n95lJho7CwvBfhvPJ7rxiN",
       "lead_name": "Zimmerei Tobias Greinwald GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
