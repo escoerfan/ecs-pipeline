@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T14:44:48.458011+00:00",
-  "count": 84,
+  "generated_at": "2026-08-10T15:41:41.840413+00:00",
+  "count": 85,
   "pipelines": [
     {
       "created_by": null,
@@ -328,6 +328,42 @@
       "id": "lead_45KkWj3Oj6cBCD01ay2LtpxUUnMg3lhNsLdmvTuxxvH",
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_5AfjbmZS8Ma4XA5WhztKa5CWIrwCmT1h9rsQq4X1Osg": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-29T11:13:01.552000+00:00",
+          "date_updated": "2026-06-29T11:13:01.552000+00:00",
+          "display_name": "info@scharf-spedition.de",
+          "emails": [
+            {
+              "email": "info@scharf-spedition.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_Yg2Kr1urXk3OCCm2UxwnvHRUQ8IZhohLc2cdjgIw8lM",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": ""
+            }
+          ],
+          "lead_id": "lead_5AfjbmZS8Ma4XA5WhztKa5CWIrwCmT1h9rsQq4X1Osg",
+          "name": null,
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_5AfjbmZS8Ma4XA5WhztKa5CWIrwCmT1h9rsQq4X1Osg",
+      "name": "Scharf Spedition GmbH & Co.KG",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_6r9hDWfAVjq1uYEnJcLz2oO2p75wsVt5miOln30niJ2": {
       "contacts": [
@@ -4694,6 +4730,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-10T15:33:40.660000+00:00",
+      "date_updated": "2026-08-10T15:33:40.660000+00:00",
+      "date_won": null,
+      "id": "oppo_iI7dN0s4txFhQSoo7ARXtMZKpfP9olMhIk4G2KlXPgN",
+      "lead_id": "lead_5AfjbmZS8Ma4XA5WhztKa5CWIrwCmT1h9rsQq4X1Osg",
+      "lead_name": "Scharf Spedition GmbH & Co.KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
