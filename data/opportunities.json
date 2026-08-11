@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T12:24:36.485302+00:00",
-  "count": 85,
+  "generated_at": "2026-08-11T13:52:52.069706+00:00",
+  "count": 87,
   "pipelines": [
     {
       "created_by": null,
@@ -2603,6 +2603,49 @@
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
+    "lead_YAJWnzEINLpllZ4trLYRbewWNw0ISZyr9t94AzvTnwi": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-09T08:05:11.234000+00:00",
+          "date_updated": "2026-07-09T08:05:11.234000+00:00",
+          "display_name": "Kutter GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "info@kutter-bau.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_8rwGkyjo1b0AxrKjTZ3b65zUvSH0A50l05i77Ios2Dy",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Kutter%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_YAJWnzEINLpllZ4trLYRbewWNw0ISZyr9t94AzvTnwi",
+          "name": "Kutter GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+493671527199",
+              "phone_formatted": "+49 3671 527199",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_YAJWnzEINLpllZ4trLYRbewWNw0ISZyr9t94AzvTnwi",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_YLQBK6rptdaZ31QV4gjs6EzuG2eT4lWzojjlplMqYCp": {
       "contacts": [
         {
@@ -4005,6 +4048,55 @@
       "name": "",
       "status_label": "Im Kontakt"
     },
+    "lead_oEwjqKrMxhL524Uge5GSRAicdIZW1QINQoz02KRScXg": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:13:04.731000+00:00",
+          "date_updated": "2026-07-15T09:13:04.731000+00:00",
+          "display_name": "Feil Reisen - Omnibusreisen aus Augsburg",
+          "emails": [
+            {
+              "email": "info@feil-reisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_oWBUaY6TNfXgezu5oawv2sySZs1Tk5UygS2MCNpiXzJ",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Feil%20Reisen%20-%20Omnibusreisen%20aus%20Augsburg"
+            }
+          ],
+          "lead_id": "lead_oEwjqKrMxhL524Uge5GSRAicdIZW1QINQoz02KRScXg",
+          "name": "Feil Reisen - Omnibusreisen aus Augsburg",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49821422772",
+              "phone_formatted": "+49 821 422772",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49821426793",
+              "phone_formatted": "+49 821 426793",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_oEwjqKrMxhL524Uge5GSRAicdIZW1QINQoz02KRScXg",
+      "name": "Feil Reisen",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_oFOJbnOFFfKrkwjjtnYhbiH5S41Zml6ySo5ut3Q0ewS": {
       "contacts": [
         {
@@ -4734,6 +4826,48 @@
       "confidence": 50,
       "contact_id": null,
       "contact_name": null,
+      "date_created": "2026-08-11T12:48:45.539000+00:00",
+      "date_updated": "2026-08-11T12:48:45.539000+00:00",
+      "date_won": null,
+      "id": "oppo_ut9IxqlO8gkeCX3gIlqSiXunhDrXmS6CH3BxuI7OYVf",
+      "lead_id": "lead_YAJWnzEINLpllZ4trLYRbewWNw0ISZyr9t94AzvTnwi",
+      "lead_name": "Kutter GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-11T12:48:00.098000+00:00",
+      "date_updated": "2026-08-11T12:48:00.098000+00:00",
+      "date_won": null,
+      "id": "oppo_n1yHu1AXPsJkAHGWsUhn3QMXlpPGkFLotdI91eCEA4G",
+      "lead_id": "lead_oEwjqKrMxhL524Uge5GSRAicdIZW1QINQoz02KRScXg",
+      "lead_name": "Feil Reisen",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
       "date_created": "2026-08-10T15:33:40.660000+00:00",
       "date_updated": "2026-08-10T15:33:40.660000+00:00",
       "date_won": null,
@@ -4840,15 +4974,15 @@
       "contact_id": null,
       "contact_name": null,
       "date_created": "2026-07-30T09:04:00.544000+00:00",
-      "date_updated": "2026-07-30T09:04:00.544000+00:00",
+      "date_updated": "2026-08-11T12:47:18.202000+00:00",
       "date_won": null,
       "id": "oppo_4ktdZf36fNzohm2uwpY8JuPmKzGoWuUbNPlbua38d5u",
       "lead_id": "lead_08c4ub8nH49uSdZYEm3JdjVv7tJQPPmXuDyqvfgsS3X",
       "lead_name": "Meisterbetrieb Patrick Ott GmbH",
       "note": null,
       "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
-      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
-      "status_label": "Zum Verkauf",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
       "status_type": "active",
       "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "user_name": "David Stein",
