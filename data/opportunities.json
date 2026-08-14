@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:43:04.681679+00:00",
-  "count": 88,
+  "generated_at": "2026-08-14T09:44:05.307170+00:00",
+  "count": 89,
   "pipelines": [
     {
       "created_by": null,
@@ -2894,6 +2894,49 @@
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
     },
+    "lead_b00hzQVj1ZyRgO4hzl2JRIoJoSgfyESu1OTSFacqbuX": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-19T20:41:31.111000+00:00",
+          "date_updated": "2026-06-19T20:41:31.111000+00:00",
+          "display_name": "GD Bus Tours GmbH",
+          "emails": [
+            {
+              "email": "info@gdbus.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_uSiErjmPIQCGNwPI1A5AaaG1MPpJOM9YzdDhnsxfzz1",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=GD%20Bus%20Tours%20GmbH"
+            }
+          ],
+          "lead_id": "lead_b00hzQVj1ZyRgO4hzl2JRIoJoSgfyESu1OTSFacqbuX",
+          "name": "GD Bus Tours GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49606170650",
+              "phone_formatted": "+49 6061 70650",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_b00hzQVj1ZyRgO4hzl2JRIoJoSgfyESu1OTSFacqbuX",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_bE2GBgKu4cTpmLU4VfFkMurDdEtWnr6cLcRDTGo0gMA": {
       "contacts": [
         {
@@ -4894,6 +4937,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-14T08:44:11.466000+00:00",
+      "date_updated": "2026-08-14T08:44:11.466000+00:00",
+      "date_won": null,
+      "id": "oppo_aCPPEPqMQZ896xBew3oCs4eC1rgWIyC9gQDHQl9mU4q",
+      "lead_id": "lead_b00hzQVj1ZyRgO4hzl2JRIoJoSgfyESu1OTSFacqbuX",
+      "lead_name": "GD Bus Tours GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
