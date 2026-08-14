@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:18:36.349908+00:00",
-  "count": 87,
+  "generated_at": "2026-08-14T08:43:04.681679+00:00",
+  "count": 88,
   "pipelines": [
     {
       "created_by": null,
@@ -1384,6 +1384,78 @@
         }
       ],
       "id": "lead_IlpXPkQEPDHBHdxwqmLUGengV1FNNJgnrQXRnEBVTnx",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
+    "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2024-09-18T08:40:05.535000+00:00",
+          "date_updated": "2024-09-18T08:40:05.535000+00:00",
+          "display_name": "Mercer Timber Products GmbH",
+          "emails": [
+            {
+              "email": "info@mercerint.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_chaY8A4f8ZcQuIAK6Ptsba3FgxbGcrYHW6YnmDYBhHh",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Timber%20Products%20GmbH"
+            }
+          ],
+          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+          "name": "Mercer Timber Products GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49303064710",
+              "phone_formatted": "+49 30 3064710",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-13T09:59:28.190000+00:00",
+          "date_updated": "2026-07-13T09:59:28.190000+00:00",
+          "display_name": "Mercer Holz, Fuhrparkverkauf",
+          "emails": [
+            {
+              "email": "fuhrparkverkauf@mercerint.com",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_F2zA0h4DuH4s61uiSL1epXpk2eTXTdR5cbh4xi1ZqF0",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Mercer%20Holz%2C%20Fuhrparkverkauf"
+            }
+          ],
+          "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+          "name": "Mercer Holz, Fuhrparkverkauf",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [],
+          "timezone": null,
+          "timezone_source": null,
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
       "name": "",
       "status_label": "Fahrzeug zum Verkauf"
     },
@@ -4822,6 +4894,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-14T08:33:34.432000+00:00",
+      "date_updated": "2026-08-14T08:33:34.432000+00:00",
+      "date_won": null,
+      "id": "oppo_mkSWTzCKTaBEDSIZvQfVQB6Dm2M8CNm286Ln3HSjJC4",
+      "lead_id": "lead_J1A3GG2Qiz6kJ0DSH5uCN12apH7xeKPoWStWW4iQ7ve",
+      "lead_name": "Mercer Timber Products GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_nCkVCJCwGkoUAyg8acweOafI4JbbNyQYuP82e3Jx7XP",
+      "status_label": "Auf Follow Up",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
