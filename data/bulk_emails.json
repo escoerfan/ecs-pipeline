@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T08:24:22.652660+00:00",
-  "count": 52,
+  "generated_at": "2026-08-17T09:09:19.782395+00:00",
+  "count": 55,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
       "email": "kontakt@elegancecarsafi.com",
@@ -78,6 +78,11 @@
     "tmpl_kTrQaRgG8LoOv4aN5JdXcB6tZ0JrsEmJoanLFIr3Yaq": {
       "id": "tmpl_kTrQaRgG8LoOv4aN5JdXcB6tZ0JrsEmJoanLFIr3Yaq",
       "name": "Follow Up Angebot Nicht Geklapppt",
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM"
+    },
+    "tmpl_TY5v6dKwK1ugNkw42s8UKrsYaILA5Q19A6Ywijyajq0": {
+      "id": "tmpl_TY5v6dKwK1ugNkw42s8UKrsYaILA5Q19A6Ywijyajq0",
+      "name": "Follow Up General",
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM"
     },
     "tmpl_Y1TBr78ruK7ZYkk8PW0vAeDuOPYrqpNurmIxAerAk4W": {
@@ -172,6 +177,454 @@
     }
   },
   "bulk_emails": [
+    {
+      "contact_preference": "lead",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-08-17T08:39:21.142000+00:00",
+      "date_updated": "2026-08-17T09:09:03.458000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_vHo3PCsQBGxtSF1bldQFvAcGC3zSOiYxxbWGQqCeZud",
+      "n_leads": 26,
+      "n_leads_processed": 16,
+      "n_objects": 26,
+      "n_objects_processed": 16,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": 32,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_EmwDAlyR713UZVW9j9Q02FTW1LSXFjg48tAWeKh61En"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_uBOC65p35Gwvce279Alfz1tbPGlhIzNxJS23Ux0m7Aq"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_JdRhnZ09uizTPBR2mrxoxfQNlSXb4UzZzVk6Y8HYm6J"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_YpdUIKU9xI1sBEBxb2GU2rlCBXZNZFbqQEJ5mH2KO9I"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_TvJIXyUhz5KnclPJTJYM9jxUojm3xtmFqRnt3Yda45f"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_XoOTnJOyj4GIQHFBO2jhxKwi2EWBdOk1DJzbyGFN9m2"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_kGmc5qBkiP4TCwH1Z4T4KeX9lau9sbHGohsNKSM3HPy"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_BY1i7Nef2ptwMDQpXBgwwC3XYjYrTVR7X91QA24qOif"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_oxSywVoZ1VsICoC5GuQ4pKSohZvGqRfGM5xyRJvpLGA"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_3HlpA4jbc10FPY0b0M99Stislc9dAI9JluOHmLc8U7P"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_WN2tVUKxf83OqAq0EmlqsqtJbGhbCoe8LDJmHVwsadu"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_9uuY0KtLU4McpeKIkZ3dA1jhn3nWCCX7HAPe7Ym24g6"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_sya1AUGWCdiVcnidlUioiQal9G7A3l2423Xr9HoLfZ5"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_Oku5JKvtI6MSV5kYIp1Sqiq8V92novmNaa5QfpXsnKR"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_WwuKh2XOFCiwMNUr2DKv70JyxumDi4A0yUr5cA2jyhc"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_mOL389A43bAEgPGGbcre481wojNUlST40NnSSPJCKR6"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_piiXssQyCbpLVVfUI0NhnFTiLQrbTSzDJOid8yOaJxd"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_gbamD9rjRlnBDUPJOKvIUqgxYjjWXmBppVRv0ENOysz"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_bxzyyPKwSdGFIqrEMLrQM0VTruayD2P4nbSi1fgyd84"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_9vh0AUwvdwzkPKeVnHnqVrj0TLeJ0oGYKy58zIIfBJy"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_rhvDJSXK1WVjexhuqZKBT6cC7jBEyhOiiOG0bkjIiL0"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_NSo5VTc0uhlO6lnU5TYVNng8LpHPf0dQ4a2ZjemUM3g"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_BIKhyxTBYJUW6kmnOG3MQKYnKiy1VvC6i4JNCK6GCX3"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_FXWNcJpyiaDmMtnQvH5b2nGXLU20bzpCpBbPtK3BB65"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_b0371sWZoAGffvJFbRBFVlEwGTBo9mlzpWSHmA6JcSW"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_TpW2bvVeHEADDVUeSn0o51GdMUc2aic8lHbCXwmOam8"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_1UFu5ySWG57rvEUcixam6GTaAYzc67KeKhy7w7jAtj6"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_9fVK7Fxc59nb5toU0ug6wtnriOso0k1UalfQKp1ZBfU"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_IM1BK7J50i8GKvJdTfNASFjT6BXhJkw8IuK80lZuqau"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_oWchpqEv44zdJK1YRFp1kcGzzBy1mbRcQfERMJ5sO3A"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_yQT2VbR82AQNXLNmMyzfJvbaHD3WBng6wTJ8LvcFoiM"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_PJUNvbL4aYlDzaFpQbpKcFeH8IqYlTsjkyeMr9YVXdp"
+                  }
+                ],
+                "type": "or"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_Y7VftZU1d98dIBNoLWabmuuUeNl2UXWVl6svB5RJayt",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "lead",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-08-17T08:37:28.518000+00:00",
+      "date_updated": "2026-08-17T09:09:01.400000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_NuW9PcCwHNkP2EXWvpKFnTwlcB6Bm2ZFHOWpTVeoVEu",
+      "n_leads": 5,
+      "n_leads_processed": 0,
+      "n_objects": 5,
+      "n_objects_processed": 0,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": 5,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_So0YsDWLMYgWpWeI1svTMwuUKrQy7n6fl1sssE1UCdg"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_j8Wdt0VNljqfKoxn06fVtGX58iuDvU5BfqlsYUCIo6c"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_JM14sbI1uiiQMFj2JBZCCsxoyEVde1YSPuKJlyRTllJ"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_equlei1plVbHQ3oa97Mm9ve0sm0JSlahgWZreCTTaID"
+                  },
+                  {
+                    "negate": false,
+                    "type": "id",
+                    "value": "lead_BvucvEcoQPDXGCotmu4wWGxDJlieNIcrdepo8bXR2by"
+                  }
+                ],
+                "type": "or"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [],
+      "status": "processing",
+      "template_id": "tmpl_TI4R5zBVWHMdVthR2jTGiljmpFwP8M9SaP5wRvjW4df",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
+    {
+      "contact_preference": "lead",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-08-17T08:29:49.740000+00:00",
+      "date_updated": "2026-08-17T09:09:01.303000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_uOTm3q2AZV6unYwlhGIr2JR9j0jH5q50FdcXOSr8VIi",
+      "n_leads": 17068,
+      "n_leads_processed": 20,
+      "n_objects": 17068,
+      "n_objects_processed": 20,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "object_ids": [
+                            "stat_DOegvF961mMObD4pKuOaOb65dHd1HJqKc7GaXUTY8Ye",
+                            "stat_DZ15xzXAayR2VcVp5LePzjB6Zn6JHsMEl1ZgtDrX1kX",
+                            "stat_TQFzbFputzCZopxJzpbOR165ZROOVWEbhaEs50CjMsv",
+                            "stat_WDvIRi0CYu2Q4pB9CMKfdgfOroyD2G06tuL9tQ0iEik",
+                            "stat_XxdXoC0CxtR46ObMKcH8J5YfwCoS8HOBTAthTQW7K36",
+                            "stat_inn2ltXGmaFp5Bpxvq1w9JylAJPwv8Sa0r4JknWWGTn"
+                          ],
+                          "reference_type": "status.lead",
+                          "type": "reference"
+                        },
+                        "field": {
+                          "field_name": "status_id",
+                          "object_type": "lead",
+                          "type": "regular_field"
+                        },
+                        "negate": true,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  },
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "gte": 1,
+                          "lte": 1,
+                          "type": "number_range"
+                        },
+                        "field": {
+                          "field_name": "times_communicated",
+                          "object_type": "lead",
+                          "type": "regular_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  }
+                ],
+                "type": "and"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [
+        {
+          "direction": "asc",
+          "field": {
+            "field_name": "last_communication_date",
+            "object_type": "lead",
+            "type": "regular_field"
+          }
+        }
+      ],
+      "status": "processing",
+      "template_id": "tmpl_TY5v6dKwK1ugNkw42s8UKrsYaILA5Q19A6Ywijyajq0",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
     {
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
