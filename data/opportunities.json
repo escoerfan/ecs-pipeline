@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:49:31.849909+00:00",
+  "generated_at": "2026-08-17T08:38:26.894893+00:00",
   "count": 89,
   "pipelines": [
     {
@@ -2837,6 +2837,42 @@
           "timezone": "Europe/Berlin",
           "timezone_source": "inferred_from_phone_number",
           "title": "",
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        },
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-07-15T09:12:18.078000+00:00",
+          "date_updated": "2026-08-17T08:18:35.639000+00:00",
+          "display_name": "Seitz Reisen GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "info@seitz-busreisen.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_MoeXdqKN5y7l3G60syX37pcft8vejaVRtP7St2i5Pc9",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Seitz%20Reisen%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_YlIdMf8yoCYiPlFYWF0MLBiyQ7cKfQlrrwyhemKIdho",
+          "name": "Seitz Reisen GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49934592020",
+              "phone_formatted": "+49 9345 92020",
+              "type": "office"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
           "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
           "urls": []
         }
