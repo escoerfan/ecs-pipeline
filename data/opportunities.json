@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T14:33:29.641658+00:00",
-  "count": 90,
+  "generated_at": "2026-08-19T15:06:33.289847+00:00",
+  "count": 91,
   "pipelines": [
     {
       "created_by": null,
@@ -3372,6 +3372,55 @@
       "name": "",
       "status_label": "Partner"
     },
+    "lead_cn0Gp8zeICed4yoWu0Pmzs1q5tcOFIrn4TbLZzNXDiY": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-23T10:33:27.790000+00:00",
+          "date_updated": "2026-06-23T10:33:27.790000+00:00",
+          "display_name": "Walther´s Mülltonnen-Reinigungs-Service GmbH & Co. KG",
+          "emails": [
+            {
+              "email": "walthers@muelltonnenreinigung.eu",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_jemxPAnYSIBERKJROkm7acBe8eMRLfcmHzOal13o2hV",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Walther%C2%B4s%20M%C3%BClltonnen-Reinigungs-Service%20GmbH%20%26%20Co.%20KG"
+            }
+          ],
+          "lead_id": "lead_cn0Gp8zeICed4yoWu0Pmzs1q5tcOFIrn4TbLZzNXDiY",
+          "name": "Walther´s Mülltonnen-Reinigungs-Service GmbH & Co. KG",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4926239249403",
+              "phone_formatted": "+49 2623 9249403",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+4926239249404",
+              "phone_formatted": "+49 2623 9249404",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_cn0Gp8zeICed4yoWu0Pmzs1q5tcOFIrn4TbLZzNXDiY",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
+    },
     "lead_ddaypdMTSGN9hhijkx8yuPGn8qCAqsnHUA55DQWncV9": {
       "contacts": [
         {
@@ -5022,6 +5071,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-19T14:41:15.092000+00:00",
+      "date_updated": "2026-08-19T14:41:15.092000+00:00",
+      "date_won": null,
+      "id": "oppo_HRXKecUld0iNnSu8arO9Sxuq43C0guwj7chUBQktghy",
+      "lead_id": "lead_cn0Gp8zeICed4yoWu0Pmzs1q5tcOFIrn4TbLZzNXDiY",
+      "lead_name": "Walther´s Mülltonnen-Reinigungs-Service GmbH & Co. KG",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
