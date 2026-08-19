@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:02:14.868512+00:00",
+  "generated_at": "2026-08-19T08:53:54.456416+00:00",
   "count": 89,
   "pipelines": [
     {
@@ -3436,7 +3436,7 @@
         {
           "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
           "date_created": "2026-07-15T09:12:52.330000+00:00",
-          "date_updated": "2026-07-15T09:12:52.330000+00:00",
+          "date_updated": "2026-08-19T08:48:35.546000+00:00",
           "display_name": "Kempenicher Reisedienst",
           "emails": [
             {
@@ -3465,7 +3465,7 @@
           ],
           "timezone": "Europe/Berlin",
           "timezone_source": "inferred_from_phone_number",
-          "title": null,
+          "title": "",
           "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
           "urls": []
         }
