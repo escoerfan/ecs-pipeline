@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T15:02:13.832419+00:00",
-  "count": 56,
+  "generated_at": "2026-08-19T15:46:32.534134+00:00",
+  "count": 57,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
       "email": "kontakt@elegancecarsafi.com",
@@ -177,6 +177,131 @@
     }
   },
   "bulk_emails": [
+    {
+      "contact_preference": "contact",
+      "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "date_created": "2026-08-19T15:25:27.571000+00:00",
+      "date_updated": "2026-08-19T15:45:30.021000+00:00",
+      "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
+      "id": "bulkemail_PtetVr0n6MoszG0RAVXGaekgiiAlpA3tkATdlhwSPSg",
+      "n_leads": 15944,
+      "n_leads_processed": 20,
+      "n_objects": 15944,
+      "n_objects_processed": 20,
+      "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+      "query": "",
+      "results_limit": null,
+      "s_query": {
+        "negate": false,
+        "queries": [
+          {
+            "negate": false,
+            "queries": [
+              {
+                "negate": false,
+                "object_type": "lead",
+                "type": "object_type"
+              },
+              {
+                "negate": false,
+                "queries": [
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "object_ids": [
+                            "stat_DOegvF961mMObD4pKuOaOb65dHd1HJqKc7GaXUTY8Ye",
+                            "stat_DZ15xzXAayR2VcVp5LePzjB6Zn6JHsMEl1ZgtDrX1kX",
+                            "stat_TQFzbFputzCZopxJzpbOR165ZROOVWEbhaEs50CjMsv",
+                            "stat_WDvIRi0CYu2Q4pB9CMKfdgfOroyD2G06tuL9tQ0iEik",
+                            "stat_XxdXoC0CxtR46ObMKcH8J5YfwCoS8HOBTAthTQW7K36",
+                            "stat_inn2ltXGmaFp5Bpxvq1w9JylAJPwv8Sa0r4JknWWGTn"
+                          ],
+                          "reference_type": "status.lead",
+                          "type": "reference"
+                        },
+                        "field": {
+                          "field_name": "status_id",
+                          "object_type": "lead",
+                          "type": "regular_field"
+                        },
+                        "negate": true,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  },
+                  {
+                    "negate": false,
+                    "queries": [
+                      {
+                        "condition": {
+                          "gte": 1,
+                          "lte": 1,
+                          "type": "number_range"
+                        },
+                        "field": {
+                          "field_name": "times_communicated",
+                          "object_type": "lead",
+                          "type": "regular_field"
+                        },
+                        "negate": false,
+                        "type": "field_condition"
+                      }
+                    ],
+                    "type": "and"
+                  }
+                ],
+                "type": "and"
+              }
+            ],
+            "type": "and"
+          },
+          {
+            "negate": false,
+            "related_object_type": "contact",
+            "related_query": {
+              "negate": false,
+              "related_object_type": "contact_email",
+              "related_query": {
+                "condition": {
+                  "type": "boolean",
+                  "value": false
+                },
+                "field": {
+                  "field_name": "is_unsubscribed",
+                  "object_type": "contact_email",
+                  "type": "regular_field"
+                },
+                "negate": false,
+                "type": "field_condition"
+              },
+              "this_object_type": "contact",
+              "type": "has_related"
+            },
+            "this_object_type": "lead",
+            "type": "has_related"
+          }
+        ],
+        "type": "and"
+      },
+      "send_done_email": true,
+      "sender": "David Stein <kontakt@elegancecarsafi.com>",
+      "sort": [
+        {
+          "direction": "asc",
+          "field": {
+            "field_name": "last_communication_date",
+            "object_type": "lead",
+            "type": "regular_field"
+          }
+        }
+      ],
+      "status": "processing",
+      "template_id": "tmpl_TY5v6dKwK1ugNkw42s8UKrsYaILA5Q19A6Ywijyajq0",
+      "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i"
+    },
     {
       "contact_preference": "lead",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
