@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T10:37:08.961444+00:00",
-  "count": 89,
+  "generated_at": "2026-08-19T11:01:15.029365+00:00",
+  "count": 90,
   "pipelines": [
     {
       "created_by": null,
@@ -2006,6 +2006,55 @@
       "id": "lead_LvXqpWN6e3pfUxc3xX2Zycdjdrb8IuugW51F9rW1LMK",
       "name": "CT Logistik GmbH & Co. KG",
       "status_label": "Follow Up - Nachricht"
+    },
+    "lead_MUlR9IgJUUQ8JkUzY82R0QP3wvXgAj0L297hymAxxF0": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-05-29T10:01:57.024000+00:00",
+          "date_updated": "2026-05-29T10:01:57.024000+00:00",
+          "display_name": "Poppernitsch Bauunternehmung GmbH",
+          "emails": [
+            {
+              "email": "info@poppernitsch.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_ghc9BeBa7YGwj4dUUTXjKn3vCMHBlDzeDez4Tnenc17",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Poppernitsch%20Bauunternehmung%20GmbH"
+            }
+          ],
+          "lead_id": "lead_MUlR9IgJUUQ8JkUzY82R0QP3wvXgAj0L297hymAxxF0",
+          "name": "Poppernitsch Bauunternehmung GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+49221343526",
+              "phone_formatted": "+49 221 343526",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+49221343524",
+              "phone_formatted": "+49 221 343524",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_MUlR9IgJUUQ8JkUzY82R0QP3wvXgAj0L297hymAxxF0",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_N36CDWTcyax9q7lel0Yp71ck80ge7hA6DYiWzSJvAB9": {
       "contacts": [
@@ -4973,6 +5022,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-19T10:50:06.221000+00:00",
+      "date_updated": "2026-08-19T10:50:06.221000+00:00",
+      "date_won": null,
+      "id": "oppo_OxmWpMHP0ubwVcEk4I1POsXPWg6JVUpkJdM5q0fs15m",
+      "lead_id": "lead_MUlR9IgJUUQ8JkUzY82R0QP3wvXgAj0L297hymAxxF0",
+      "lead_name": "Poppernitsch Bauunternehmung GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
