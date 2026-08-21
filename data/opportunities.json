@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T08:06:51.616338+00:00",
-  "count": 92,
+  "generated_at": "2026-08-21T08:57:25.114232+00:00",
+  "count": 93,
   "pipelines": [
     {
       "created_by": null,
@@ -2244,6 +2244,55 @@
       "id": "lead_Pk45t79lIjOMNk2ffad5zcDdlSQ4L2Aa15yaMcgshC5",
       "name": "",
       "status_label": "Follow Up - Fahrzeug"
+    },
+    "lead_QaKGhiJax9eooxH6IN3aJfuujiQr2LrReW4wQU9wFKN": {
+      "contacts": [
+        {
+          "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "date_created": "2026-06-23T10:33:28.685000+00:00",
+          "date_updated": "2026-06-23T10:33:28.685000+00:00",
+          "display_name": "Rohr Service Kunz GmbH",
+          "emails": [
+            {
+              "email": "info@rohrservice-kunz.de",
+              "is_unsubscribed": false,
+              "type": "office"
+            }
+          ],
+          "id": "cont_DkfQIpblhVCFIjsZrhExGIeblsGIRlmZzaXahKRamKV",
+          "integration_links": [
+            {
+              "name": "LinkedIn Search",
+              "url": "https://www.linkedin.com/search/results/people/?keywords=Rohr%20Service%20Kunz%20GmbH"
+            }
+          ],
+          "lead_id": "lead_QaKGhiJax9eooxH6IN3aJfuujiQr2LrReW4wQU9wFKN",
+          "name": "Rohr Service Kunz GmbH",
+          "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
+          "phones": [
+            {
+              "country": "DE",
+              "phone": "+4926548839860",
+              "phone_formatted": "+49 2654 8839860",
+              "type": "office"
+            },
+            {
+              "country": "DE",
+              "phone": "+492605847072",
+              "phone_formatted": "+49 2605 847072",
+              "type": "fax"
+            }
+          ],
+          "timezone": "Europe/Berlin",
+          "timezone_source": "inferred_from_phone_number",
+          "title": null,
+          "updated_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+          "urls": []
+        }
+      ],
+      "id": "lead_QaKGhiJax9eooxH6IN3aJfuujiQr2LrReW4wQU9wFKN",
+      "name": "",
+      "status_label": "Fahrzeug zum Verkauf"
     },
     "lead_QzNI9MimzOjXmdkqF2Py2YP5zY0XdkQrmV198qMfUhJ": {
       "contacts": [
@@ -5125,6 +5174,27 @@
     }
   },
   "opportunities": [
+    {
+      "confidence": 50,
+      "contact_id": null,
+      "contact_name": null,
+      "date_created": "2026-08-21T08:49:31.494000+00:00",
+      "date_updated": "2026-08-21T08:49:31.494000+00:00",
+      "date_won": null,
+      "id": "oppo_jRMdbBPkmWwg2IinV6lx8NlyiLb2mOWJSKV0kcJO8e6",
+      "lead_id": "lead_QaKGhiJax9eooxH6IN3aJfuujiQr2LrReW4wQU9wFKN",
+      "lead_name": "Rohr Service Kunz GmbH",
+      "note": null,
+      "pipeline_id": "pipe_1TCRQGUQx2NjMz3sQC4Sgr",
+      "status_id": "stat_5ZYyLIaiTaVlPNBuwosJ6fxS9Djbvxkok8ZL86NOGjk",
+      "status_label": "Zum Verkauf",
+      "status_type": "active",
+      "user_id": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
+      "user_name": "David Stein",
+      "value": 0,
+      "value_formatted": "",
+      "value_period": "one_time"
+    },
     {
       "confidence": 50,
       "contact_id": null,
