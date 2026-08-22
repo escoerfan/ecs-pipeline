@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:42:28.069562+00:00",
+  "generated_at": "2026-08-22T10:01:09.749939+00:00",
   "count": 57,
   "users": {
     "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i": {
@@ -181,13 +181,13 @@
       "contact_preference": "contact",
       "created_by": "user_DmbueqhqoFmX6kX3B6Ybj1X9xzpfQ2vrKI199uJ3b8i",
       "date_created": "2026-08-19T15:25:27.571000+00:00",
-      "date_updated": "2026-08-22T09:41:56.909000+00:00",
+      "date_updated": "2026-08-22T10:00:29.803000+00:00",
       "email_account_id": "emailacct_FKY25dMAUKsUbej9TiaALusDiGStfWI1MKTXeKev4sp",
       "id": "bulkemail_PtetVr0n6MoszG0RAVXGaekgiiAlpA3tkATdlhwSPSg",
       "n_leads": 15944,
-      "n_leads_processed": 1470,
+      "n_leads_processed": 1490,
       "n_objects": 15944,
-      "n_objects_processed": 1470,
+      "n_objects_processed": 1490,
       "organization_id": "orga_yc0ejdCQzC4ZTMvmdKLeS5OwZh50sxolfAFugBlRxJM",
       "query": "",
       "results_limit": null,
